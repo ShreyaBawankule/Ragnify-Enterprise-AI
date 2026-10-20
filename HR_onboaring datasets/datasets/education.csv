@@ -1,0 +1,66 @@
+education_id,candidate_id,level,qualification,specialization,institution,board_or_university,year_of_passing,score_type,score_value,education_status,is_highest_qualification,document_filename,verification_status
+EDU-001,CAND-001,10TH,Secondary School Certificate (Class 10),General,"Demo Public School, Nagpur",ICSE,2015,PERCENTAGE,79,COMPLETED,false,CAND-001_10th_Marksheet.pdf,VERIFIED
+EDU-002,CAND-001,12TH,Senior Secondary (Class 12),Science (PCM),"Demo Senior Secondary School, Nagpur",ICSE,2017,PERCENTAGE,75,COMPLETED,false,CAND-001_12th_Marksheet.pdf,VERIFIED
+EDU-003,CAND-001,UG,B.Tech,Computer Science and Engineering,"Demo Institute of Technology, Nagpur",Sample University of Nagpur,2021,CGPA,8.1,COMPLETED,true,CAND-001_Degree_Certificate.pdf,VERIFIED
+EDU-004,CAND-002,10TH,Secondary School Certificate (Class 10),General,"Demo Public School, Jaipur",State Board,2020,PERCENTAGE,86,COMPLETED,false,CAND-002_10th_Marksheet.pdf,VERIFIED
+EDU-005,CAND-002,12TH,Senior Secondary (Class 12),Science (PCM),"Demo Senior Secondary School, Jaipur",State Board,2022,PERCENTAGE,80,COMPLETED,false,CAND-002_12th_Marksheet.pdf,VERIFIED
+EDU-006,CAND-002,UG,B.Tech,Artificial Intelligence and Data Science,"Synthetic College of Engineering, Jaipur",Demo Technical University,2026,CGPA,8.4,COMPLETED,true,CAND-002_Graduation_Marksheets.pdf,VERIFIED
+EDU-007,CAND-003,10TH,Secondary School Certificate (Class 10),General,"Demo Public School, Kochi",CBSE,2013,PERCENTAGE,93,COMPLETED,false,CAND-003_10th_Marksheet.pdf,VERIFIED
+EDU-008,CAND-003,12TH,Senior Secondary (Class 12),Science (PCM),"Demo Senior Secondary School, Kochi",CBSE,2015,PERCENTAGE,85,COMPLETED,false,CAND-003_12th_Marksheet.pdf,VERIFIED
+EDU-009,CAND-003,UG,B.E.,Information Technology,"Sample Institute of Engineering, Kochi",Demo University of Kerala,2019,PERCENTAGE,74.5,COMPLETED,true,CAND-003_Degree_Certificate.pdf,VERIFIED
+EDU-010,CAND-004,10TH,Secondary School Certificate (Class 10),General,"Demo Public School, Mysuru",ICSE,2019,PERCENTAGE,76,COMPLETED,false,CAND-004_10th_Marksheet.pdf,VERIFIED
+EDU-011,CAND-004,12TH,Senior Secondary (Class 12),Arts,"Demo Senior Secondary School, Mysuru",ICSE,2021,PERCENTAGE,90,COMPLETED,false,CAND-004_12th_Marksheet.pdf,VERIFIED
+EDU-012,CAND-004,UG,B.Des,Interaction Design,"Demo School of Design, Bengaluru",Sample Design University,2025,CGPA,8.7,COMPLETED,true,CAND-004_Graduation_Marksheets.pdf,VERIFIED
+EDU-013,CAND-005,10TH,Secondary School Certificate (Class 10),General,"Demo Public School, Delhi",State Board,2011,PERCENTAGE,83,COMPLETED,false,CAND-005_10th_Marksheet.pdf,VERIFIED
+EDU-014,CAND-005,12TH,Senior Secondary (Class 12),Commerce,"Demo Senior Secondary School, Delhi",State Board,2013,PERCENTAGE,70,COMPLETED,false,CAND-005_12th_Marksheet.pdf,VERIFIED
+EDU-015,CAND-005,UG,B.Com,Accounting and Finance,"Sample College of Commerce, Delhi",Demo University of Delhi,2016,PERCENTAGE,72.0,COMPLETED,false,CAND-005_Graduation_Marksheets.pdf,VERIFIED
+EDU-016,CAND-005,PG,MBA,Finance,"Synthetic Business School, Delhi",Demo Management University,2018,CGPA,8.0,COMPLETED,true,CAND-005_Degree_Certificate.pdf,VERIFIED
+EDU-017,CAND-006,10TH,Secondary School Certificate (Class 10),General,"Demo Public School, Chennai",CBSE,2014,PERCENTAGE,90,COMPLETED,false,CAND-006_10th_Marksheet.pdf,UNDER_REVIEW
+EDU-018,CAND-006,12TH,Senior Secondary (Class 12),Science (PCM),"Demo Senior Secondary School, Chennai",CBSE,2016,PERCENTAGE,75,COMPLETED,false,CAND-006_12th_Marksheet.pdf,UNDER_REVIEW
+EDU-019,CAND-006,UG,B.E.,Information Technology,"Demo College of Engineering, Chennai",Sample University of Madras,2020,CGPA,8.3,COMPLETED,true,CAND-006_Degree_Certificate.pdf,UNDER_REVIEW
+EDU-020,CAND-007,10TH,Secondary School Certificate (Class 10),General,"Demo Public School, Pune",ICSE,2021,PERCENTAGE,73,COMPLETED,false,CAND-007_10th_Marksheet.pdf,UNDER_REVIEW
+EDU-021,CAND-007,12TH,Senior Secondary (Class 12),Science (PCM),"Demo Senior Secondary School, Pune",ICSE,2023,PERCENTAGE,80,COMPLETED,false,CAND-007_12th_Marksheet.pdf,UNDER_REVIEW
+EDU-022,CAND-007,UG,B.Tech,Computer Science and Engineering,"Synthetic Institute of Technology, Pune",Demo University of Pune,2027,CGPA,8.0,PURSUING,true,CAND-007_Graduation_Marksheets.pdf,UPLOADED
+EDU-023,CAND-008,10TH,Secondary School Certificate (Class 10),General,"Demo Public School, Hyderabad",State Board,2012,PERCENTAGE,80,COMPLETED,false,CAND-008_10th_Marksheet.pdf,VERIFIED
+EDU-024,CAND-008,12TH,Senior Secondary (Class 12),Science (PCM),"Demo Senior Secondary School, Hyderabad",State Board,2014,PERCENTAGE,85,COMPLETED,false,CAND-008_12th_Marksheet.pdf,VERIFIED
+EDU-025,CAND-008,UG,B.Sc,Statistics,"Sample College of Science, Hyderabad",Demo University of Hyderabad,2017,PERCENTAGE,76.0,COMPLETED,false,CAND-008_Graduation_Marksheets.pdf,VERIFIED
+EDU-026,CAND-008,PG,M.Sc,Statistics,"Demo Institute of Statistics, Hyderabad",Sample University of Hyderabad,2019,CGPA,8.2,COMPLETED,true,CAND-008_Degree_Certificate.pdf,VERIFIED
+EDU-027,CAND-009,10TH,Secondary School Certificate (Class 10),General,"Demo Public School, Vijayawada",CBSE,2020,PERCENTAGE,87,COMPLETED,false,CAND-009_10th_Marksheet.pdf,VERIFIED
+EDU-028,CAND-009,12TH,Senior Secondary (Class 12),Science (PCM),"Demo Senior Secondary School, Vijayawada",CBSE,2022,PERCENTAGE,90,COMPLETED,false,CAND-009_12th_Marksheet.pdf,VERIFIED
+EDU-029,CAND-009,UG,B.Sc,Data Science,"Synthetic College of Science, Visakhapatnam",Demo Coastal University,2025,CGPA,7.9,COMPLETED,true,CAND-009_Graduation_Marksheets.pdf,VERIFIED
+EDU-030,CAND-010,10TH,Secondary School Certificate (Class 10),General,"Demo Public School, Lucknow",ICSE,2010,PERCENTAGE,94,COMPLETED,false,CAND-010_10th_Marksheet.pdf,VERIFIED
+EDU-031,CAND-010,12TH,Senior Secondary (Class 12),Commerce,"Demo Senior Secondary School, Lucknow",ICSE,2012,PERCENTAGE,70,COMPLETED,false,CAND-010_12th_Marksheet.pdf,VERIFIED
+EDU-032,CAND-010,UG,BBA,Human Resources,"Demo College of Management, Lucknow",Sample University of Lucknow,2015,PERCENTAGE,70.5,COMPLETED,false,CAND-010_Graduation_Marksheets.pdf,PENDING
+EDU-033,CAND-010,PG,MBA,Human Resource Management,"Synthetic Business School, Lucknow",Demo Management University,2017,CGPA,7.9,COMPLETED,true,CAND-010_Degree_Certificate.pdf,PENDING
+EDU-034,CAND-011,10TH,Secondary School Certificate (Class 10),General,"Demo Public School, Indore",State Board,2020,PERCENTAGE,77,COMPLETED,false,CAND-011_10th_Marksheet.pdf,VERIFIED
+EDU-035,CAND-011,12TH,Senior Secondary (Class 12),Commerce,"Demo Senior Secondary School, Indore",State Board,2022,PERCENTAGE,75,COMPLETED,false,CAND-011_12th_Marksheet.pdf,VERIFIED
+EDU-036,CAND-011,UG,BBA,Business Analytics,"Sample Institute of Management, Indore",Demo University of Indore,2026,CGPA,7.6,COMPLETED,true,CAND-011_Graduation_Marksheets.pdf,PENDING
+EDU-037,CAND-012,10TH,Secondary School Certificate (Class 10),General,"Demo Public School, Siliguri",CBSE,2016,PERCENTAGE,84,COMPLETED,false,CAND-012_10th_Marksheet.pdf,UPLOADED
+EDU-038,CAND-012,12TH,Senior Secondary (Class 12),Arts,"Demo Senior Secondary School, Siliguri",CBSE,2018,PERCENTAGE,80,COMPLETED,false,CAND-012_12th_Marksheet.pdf,UPLOADED
+EDU-039,CAND-012,UG,B.Des,Visual Communication,"Demo Institute of Design, Kolkata",Sample University of Kolkata,2022,CGPA,8.5,COMPLETED,true,CAND-012_Degree_Certificate.pdf,UPLOADED
+EDU-040,CAND-013,10TH,Secondary School Certificate (Class 10),General,"Demo Public School, Ahmedabad",ICSE,2021,PERCENTAGE,91,COMPLETED,false,CAND-013_10th_Marksheet.pdf,UPLOADED
+EDU-041,CAND-013,12TH,Senior Secondary (Class 12),Science (PCM),"Demo Senior Secondary School, Ahmedabad",ICSE,2023,PERCENTAGE,85,COMPLETED,false,CAND-013_12th_Marksheet.pdf,UPLOADED
+EDU-042,CAND-013,UG,B.Tech,Information Technology,"Synthetic College of Technology, Ahmedabad",Demo Gujarat Technical University,2027,CGPA,7.8,PURSUING,true,CAND-013_Graduation_Marksheets.pdf,UPLOADED
+EDU-043,CAND-014,10TH,Secondary School Certificate (Class 10),General,"Demo Public School, Bhopal",State Board,2015,PERCENTAGE,74,COMPLETED,false,CAND-014_10th_Marksheet.pdf,UPLOADED
+EDU-044,CAND-014,12TH,Senior Secondary (Class 12),Commerce,"Demo Senior Secondary School, Bhopal",State Board,2017,PERCENTAGE,90,COMPLETED,false,CAND-014_12th_Marksheet.pdf,UPLOADED
+EDU-045,CAND-014,UG,BBA,Marketing,"Sample College of Management, Bhopal",Demo University of Bhopal,2020,PERCENTAGE,73.0,COMPLETED,false,CAND-014_Graduation_Marksheets.pdf,UPLOADED
+EDU-046,CAND-014,PG,MBA,Marketing,"Demo Business School, Bhopal",Sample Management University,2022,CGPA,8.1,COMPLETED,true,CAND-014_Degree_Certificate.pdf,UPLOADED
+EDU-047,CAND-015,10TH,Secondary School Certificate (Class 10),General,"Demo Public School, Chandigarh",CBSE,2009,PERCENTAGE,81,COMPLETED,false,CAND-015_10th_Marksheet.pdf,VERIFIED
+EDU-048,CAND-015,12TH,Senior Secondary (Class 12),Science (PCM),"Demo Senior Secondary School, Chandigarh",CBSE,2011,PERCENTAGE,70,COMPLETED,false,CAND-015_12th_Marksheet.pdf,VERIFIED
+EDU-049,CAND-015,UG,B.Tech,Computer Science and Engineering,"Demo Engineering College, Chandigarh",Sample Punjab Technical University,2015,PERCENTAGE,78.0,COMPLETED,true,CAND-015_Degree_Certificate.pdf,VERIFIED
+EDU-050,CAND-016,10TH,Secondary School Certificate (Class 10),General,"Demo Public School, Amravati",ICSE,2020,PERCENTAGE,88,COMPLETED,false,CAND-016_10th_Marksheet.pdf,VERIFIED
+EDU-051,CAND-016,12TH,Senior Secondary (Class 12),Commerce,"Demo Senior Secondary School, Amravati",ICSE,2022,PERCENTAGE,75,COMPLETED,false,CAND-016_12th_Marksheet.pdf,VERIFIED
+EDU-052,CAND-016,UG,BBA,Marketing,"Synthetic College of Commerce, Nagpur",Sample University of Nagpur,2025,CGPA,7.7,COMPLETED,true,CAND-016_Graduation_Marksheets.pdf,VERIFIED
+EDU-053,CAND-017,10TH,Secondary School Certificate (Class 10),General,"Demo Public School, Mumbai",State Board,2014,PERCENTAGE,95,COMPLETED,false,CAND-017_10th_Marksheet.pdf,VERIFIED
+EDU-054,CAND-017,12TH,Senior Secondary (Class 12),Science (PCM),"Demo Senior Secondary School, Mumbai",State Board,2016,PERCENTAGE,80,COMPLETED,false,CAND-017_12th_Marksheet.pdf,VERIFIED
+EDU-055,CAND-017,UG,B.Tech,Electronics and Telecommunication,"Demo Institute of Technology, Mumbai",Sample University of Mumbai,2020,CGPA,7.9,COMPLETED,true,CAND-017_Degree_Certificate.pdf,VERIFIED
+EDU-056,CAND-018,10TH,Secondary School Certificate (Class 10),General,"Demo Public School, Madurai",CBSE,2020,PERCENTAGE,78,COMPLETED,false,CAND-018_10th_Marksheet.pdf,VERIFIED
+EDU-057,CAND-018,12TH,Senior Secondary (Class 12),Commerce,"Demo Senior Secondary School, Madurai",CBSE,2022,PERCENTAGE,85,COMPLETED,false,CAND-018_12th_Marksheet.pdf,VERIFIED
+EDU-058,CAND-018,UG,B.Com,Computer Applications,"Sample Arts and Commerce College, Coimbatore",Demo Bharathi University,2025,PERCENTAGE,75.5,COMPLETED,true,CAND-018_Graduation_Marksheets.pdf,VERIFIED
+EDU-059,CAND-019,10TH,Secondary School Certificate (Class 10),General,"Demo Public School, Patna",ICSE,2012,PERCENTAGE,85,COMPLETED,false,CAND-019_10th_Marksheet.pdf,VERIFIED
+EDU-060,CAND-019,12TH,Senior Secondary (Class 12),Commerce,"Demo Senior Secondary School, Patna",ICSE,2014,PERCENTAGE,90,COMPLETED,false,CAND-019_12th_Marksheet.pdf,VERIFIED
+EDU-061,CAND-019,UG,B.Com,Commerce,"Demo College of Commerce, Patna",Sample University of Patna,2017,PERCENTAGE,69.0,COMPLETED,false,CAND-019_Graduation_Marksheets.pdf,VERIFIED
+EDU-062,CAND-019,PG,M.Com,Accountancy,"Synthetic Postgraduate College, Patna",Demo University of Patna,2019,PERCENTAGE,71.5,COMPLETED,true,CAND-019_Degree_Certificate.pdf,VERIFIED
+EDU-063,CAND-020,10TH,Secondary School Certificate (Class 10),General,"Demo Public School, Cuttack",State Board,2020,PERCENTAGE,92,COMPLETED,false,CAND-020_10th_Marksheet.pdf,VERIFIED
+EDU-064,CAND-020,12TH,Senior Secondary (Class 12),Arts,"Demo Senior Secondary School, Cuttack",State Board,2022,PERCENTAGE,70,COMPLETED,false,CAND-020_12th_Marksheet.pdf,VERIFIED
+EDU-065,CAND-020,UG,B.A.,English Literature,"Sample College of Arts, Bhubaneswar",Demo University of Odisha,2025,CGPA,8.0,COMPLETED,true,CAND-020_Graduation_Marksheets.pdf,VERIFIED

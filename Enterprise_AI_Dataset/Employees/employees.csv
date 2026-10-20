@@ -1,0 +1,11 @@
+Employee ID,Full Name,Email,Phone Number,Gender,Date of Birth,Joining Date,Department,Designation,Manager ID,Experience,Skills,Salary (Demo),Employment Status
+EMP001,Rohan Sharma,rohan.sharma@technova.co.in,+91-98765-22101,Male,1998-03-14,2022-07-11,AI Team,AI Engineer,MGR001,4 years,Python; LangChain; RAG; Prompt Engineering; Vector Databases,1150000,Active
+EMP002,Ananya Iyer,ananya.iyer@technova.co.in,+91-98765-22102,Female,1997-11-06,2021-09-20,AI Team,Machine Learning Engineer,MGR001,5 years,PyTorch; NLP; Model Evaluation; MLOps; FastAPI,1250000,Active
+EMP003,Vikram Rao,vikram.rao@technova.co.in,+91-98765-22103,Male,1996-05-29,2020-02-17,Backend,Senior Backend Developer,MGR001,6 years,Node.js; PostgreSQL; REST APIs; Redis; System Design,1320000,Active
+EMP004,Meera Krishnan,meera.krishnan@technova.co.in,+91-98765-22104,Female,1999-01-21,2023-01-09,Backend,Backend Developer,MGR001,3 years,Java; Spring Boot; SQL; Docker; API Testing,930000,Active
+EMP005,Arjun Patel,arjun.patel@technova.co.in,+91-98765-22105,Male,1998-08-10,2022-04-04,Frontend,Frontend Developer,MGR001,4 years,React; TypeScript; Tailwind CSS; Redux; Accessibility,980000,Active
+EMP006,Sneha Kulkarni,sneha.kulkarni@technova.co.in,+91-98765-22106,Female,1997-02-19,2021-06-14,Frontend,UI Engineer,MGR001,5 years,React; Figma; Component Design; HTML; CSS,1040000,Active
+EMP007,Karthik Reddy,karthik.reddy@technova.co.in,+91-98765-22107,Male,1995-12-03,2019-10-07,QA,QA Lead,MGR002,7 years,Automation Testing; Cypress; Selenium; Test Strategy; Jira,1180000,Active
+EMP008,Nisha Gupta,nisha.gupta@technova.co.in,+91-98765-22108,Female,2000-04-25,2023-08-16,QA,QA Engineer,MGR002,2 years,Manual Testing; API Testing; Regression; Postman; SQL,720000,Active
+EMP009,Farhan Khan,farhan.khan@technova.co.in,+91-98765-22109,Male,1996-09-12,2020-11-23,HR,HR Executive,MGR002,5 years,Recruitment; Payroll; Employee Engagement; Policy Drafting; HRMS,850000,Active
+EMP010,Divya Singh,divya.singh@technova.co.in,+91-98765-22110,Female,1999-07-18,2022-12-01,HR,Operations Coordinator,MGR002,3 years,Vendor Coordination; Documentation; Onboarding; Excel; Compliance,780000,Active

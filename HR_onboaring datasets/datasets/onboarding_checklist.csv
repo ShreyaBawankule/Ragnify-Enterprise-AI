@@ -1,0 +1,341 @@
+checklist_id,candidate_id,item_no,item_name,status,responsible,due_date,completion_date,remarks
+CHK-001-01,CAND-001,1,Personal information submitted,COMPLETED,Candidate,2026-07-15,2026-07-09,Completed (DEMO)
+CHK-001-02,CAND-001,2,Identity documents submitted,COMPLETED,Candidate,2026-07-15,2026-07-12,Completed (DEMO)
+CHK-001-03,CAND-001,3,Address proof submitted,COMPLETED,Candidate,2026-07-15,2026-07-13,Completed (DEMO)
+CHK-001-04,CAND-001,4,Education documents submitted,COMPLETED,Candidate,2026-07-15,2026-07-14,Completed (DEMO)
+CHK-001-05,CAND-001,5,Bank details submitted,COMPLETED,Candidate,2026-07-15,2026-07-14,Completed (DEMO)
+CHK-001-06,CAND-001,6,Offer letter generated,COMPLETED,HR-001,2026-07-06,2026-07-06,Completed (DEMO)
+CHK-001-07,CAND-001,7,Offer letter accepted,COMPLETED,Candidate,2026-07-13,2026-07-08,Completed (DEMO)
+CHK-001-08,CAND-001,8,Background verification,COMPLETED,BGV Vendor (DEMO),2026-07-31,2026-07-30,Completed (DEMO)
+CHK-001-09,CAND-001,9,HR verification,COMPLETED,HR-001,2026-07-29,2026-07-17,Completed (DEMO)
+CHK-001-10,CAND-001,10,Manager verification,COMPLETED,MGR-001,2026-07-31,2026-08-01,Completed (DEMO)
+CHK-001-11,CAND-001,11,IT account created,COMPLETED,IT Team,2026-07-31,2026-07-31,Completed (DEMO)
+CHK-001-12,CAND-001,12,Official email created,COMPLETED,IT Team,2026-07-31,2026-07-31,Completed (DEMO)
+CHK-001-13,CAND-001,13,System access granted,COMPLETED,IT Team,2026-08-03,2026-08-03,Completed (DEMO)
+CHK-001-14,CAND-001,14,Orientation completed,COMPLETED,HR-001,2026-08-08,2026-08-06,Completed (DEMO)
+CHK-001-15,CAND-001,15,NDA signed,COMPLETED,Candidate,2026-08-03,2026-07-13,Completed (DEMO)
+CHK-001-16,CAND-001,16,Policy acknowledgement,COMPLETED,Candidate,2026-08-04,2026-07-15,Completed (DEMO)
+CHK-001-17,CAND-001,17,Joining completed,COMPLETED,HR-001,2026-08-03,2026-08-03,Completed (DEMO)
+CHK-002-01,CAND-002,1,Personal information submitted,COMPLETED,Candidate,2026-07-19,2026-07-13,Completed (DEMO)
+CHK-002-02,CAND-002,2,Identity documents submitted,COMPLETED,Candidate,2026-07-19,2026-07-16,Completed (DEMO)
+CHK-002-03,CAND-002,3,Address proof submitted,COMPLETED,Candidate,2026-07-19,2026-07-17,Completed (DEMO)
+CHK-002-04,CAND-002,4,Education documents submitted,COMPLETED,Candidate,2026-07-19,2026-07-18,Completed (DEMO)
+CHK-002-05,CAND-002,5,Bank details submitted,COMPLETED,Candidate,2026-07-19,2026-07-18,Completed (DEMO)
+CHK-002-06,CAND-002,6,Offer letter generated,COMPLETED,HR-001,2026-07-10,2026-07-10,Completed (DEMO)
+CHK-002-07,CAND-002,7,Offer letter accepted,COMPLETED,Candidate,2026-07-17,2026-07-12,Completed (DEMO)
+CHK-002-08,CAND-002,8,Background verification,COMPLETED,BGV Vendor (DEMO),2026-08-07,2026-08-06,Completed (DEMO)
+CHK-002-09,CAND-002,9,HR verification,COMPLETED,HR-001,2026-08-05,2026-07-21,Completed (DEMO)
+CHK-002-10,CAND-002,10,Manager verification,COMPLETED,MGR-002,2026-08-07,2026-08-08,Completed (DEMO)
+CHK-002-11,CAND-002,11,IT account created,COMPLETED,IT Team,2026-08-07,2026-08-07,Completed (DEMO)
+CHK-002-12,CAND-002,12,Official email created,COMPLETED,IT Team,2026-08-07,2026-08-07,Completed (DEMO)
+CHK-002-13,CAND-002,13,System access granted,COMPLETED,IT Team,2026-08-10,2026-08-10,Completed (DEMO)
+CHK-002-14,CAND-002,14,Orientation completed,COMPLETED,HR-001,2026-08-15,2026-08-13,Completed (DEMO)
+CHK-002-15,CAND-002,15,NDA signed,COMPLETED,Candidate,2026-08-10,2026-07-17,Completed (DEMO)
+CHK-002-16,CAND-002,16,Policy acknowledgement,COMPLETED,Candidate,2026-08-11,2026-07-19,Completed (DEMO)
+CHK-002-17,CAND-002,17,Joining completed,COMPLETED,HR-001,2026-08-10,2026-08-10,Completed (DEMO)
+CHK-003-01,CAND-003,1,Personal information submitted,COMPLETED,Candidate,2026-07-21,2026-07-15,Completed (DEMO)
+CHK-003-02,CAND-003,2,Identity documents submitted,COMPLETED,Candidate,2026-07-21,2026-07-18,Completed (DEMO)
+CHK-003-03,CAND-003,3,Address proof submitted,COMPLETED,Candidate,2026-07-21,2026-07-19,Completed (DEMO)
+CHK-003-04,CAND-003,4,Education documents submitted,COMPLETED,Candidate,2026-07-21,2026-07-20,Completed (DEMO)
+CHK-003-05,CAND-003,5,Bank details submitted,COMPLETED,Candidate,2026-07-21,2026-07-20,Completed (DEMO)
+CHK-003-06,CAND-003,6,Offer letter generated,COMPLETED,HR-001,2026-07-13,2026-07-13,Completed (DEMO)
+CHK-003-07,CAND-003,7,Offer letter accepted,COMPLETED,Candidate,2026-07-20,2026-07-14,Completed (DEMO)
+CHK-003-08,CAND-003,8,Background verification,COMPLETED,BGV Vendor (DEMO),2026-08-14,2026-08-13,Completed (DEMO)
+CHK-003-09,CAND-003,9,HR verification,COMPLETED,HR-001,2026-08-12,2026-07-23,Completed (DEMO)
+CHK-003-10,CAND-003,10,Manager verification,COMPLETED,MGR-001,2026-08-14,2026-08-15,Completed (DEMO)
+CHK-003-11,CAND-003,11,IT account created,COMPLETED,IT Team,2026-08-14,2026-08-14,Completed (DEMO)
+CHK-003-12,CAND-003,12,Official email created,COMPLETED,IT Team,2026-08-14,2026-08-14,Completed (DEMO)
+CHK-003-13,CAND-003,13,System access granted,COMPLETED,IT Team,2026-08-17,2026-08-17,Completed (DEMO)
+CHK-003-14,CAND-003,14,Orientation completed,COMPLETED,HR-001,2026-08-22,2026-08-20,Completed (DEMO)
+CHK-003-15,CAND-003,15,NDA signed,COMPLETED,Candidate,2026-08-17,2026-07-19,Completed (DEMO)
+CHK-003-16,CAND-003,16,Policy acknowledgement,COMPLETED,Candidate,2026-08-18,2026-07-21,Completed (DEMO)
+CHK-003-17,CAND-003,17,Joining completed,COMPLETED,HR-001,2026-08-17,2026-08-17,Completed (DEMO)
+CHK-004-01,CAND-004,1,Personal information submitted,COMPLETED,Candidate,2026-07-29,2026-07-23,Completed (DEMO)
+CHK-004-02,CAND-004,2,Identity documents submitted,COMPLETED,Candidate,2026-07-29,2026-07-26,Completed (DEMO)
+CHK-004-03,CAND-004,3,Address proof submitted,COMPLETED,Candidate,2026-07-29,2026-07-27,Completed (DEMO)
+CHK-004-04,CAND-004,4,Education documents submitted,COMPLETED,Candidate,2026-07-29,2026-07-28,Completed (DEMO)
+CHK-004-05,CAND-004,5,Bank details submitted,COMPLETED,Candidate,2026-07-29,2026-07-28,Completed (DEMO)
+CHK-004-06,CAND-004,6,Offer letter generated,COMPLETED,HR-001,2026-07-20,2026-07-20,Completed (DEMO)
+CHK-004-07,CAND-004,7,Offer letter accepted,COMPLETED,Candidate,2026-07-27,2026-07-22,Completed (DEMO)
+CHK-004-08,CAND-004,8,Background verification,COMPLETED,BGV Vendor (DEMO),2026-08-21,2026-08-20,Completed (DEMO)
+CHK-004-09,CAND-004,9,HR verification,COMPLETED,HR-001,2026-08-19,2026-07-31,Completed (DEMO)
+CHK-004-10,CAND-004,10,Manager verification,COMPLETED,MGR-003,2026-08-21,2026-08-22,Completed (DEMO)
+CHK-004-11,CAND-004,11,IT account created,COMPLETED,IT Team,2026-08-21,2026-08-21,Completed (DEMO)
+CHK-004-12,CAND-004,12,Official email created,COMPLETED,IT Team,2026-08-21,2026-08-21,Completed (DEMO)
+CHK-004-13,CAND-004,13,System access granted,COMPLETED,IT Team,2026-08-24,2026-08-24,Completed (DEMO)
+CHK-004-14,CAND-004,14,Orientation completed,COMPLETED,HR-001,2026-08-29,2026-08-27,Completed (DEMO)
+CHK-004-15,CAND-004,15,NDA signed,COMPLETED,Candidate,2026-08-24,2026-07-27,Completed (DEMO)
+CHK-004-16,CAND-004,16,Policy acknowledgement,COMPLETED,Candidate,2026-08-25,2026-07-29,Completed (DEMO)
+CHK-004-17,CAND-004,17,Joining completed,COMPLETED,HR-001,2026-08-24,2026-08-24,Completed (DEMO)
+CHK-005-01,CAND-005,1,Personal information submitted,COMPLETED,Candidate,2026-08-05,2026-07-30,Completed (DEMO)
+CHK-005-02,CAND-005,2,Identity documents submitted,COMPLETED,Candidate,2026-08-05,2026-08-02,Completed (DEMO)
+CHK-005-03,CAND-005,3,Address proof submitted,COMPLETED,Candidate,2026-08-05,2026-08-03,Completed (DEMO)
+CHK-005-04,CAND-005,4,Education documents submitted,COMPLETED,Candidate,2026-08-05,2026-08-04,Completed (DEMO)
+CHK-005-05,CAND-005,5,Bank details submitted,COMPLETED,Candidate,2026-08-05,2026-08-04,Completed (DEMO)
+CHK-005-06,CAND-005,6,Offer letter generated,COMPLETED,HR-001,2026-07-27,2026-07-27,Completed (DEMO)
+CHK-005-07,CAND-005,7,Offer letter accepted,COMPLETED,Candidate,2026-08-03,2026-07-29,Completed (DEMO)
+CHK-005-08,CAND-005,8,Background verification,COMPLETED,BGV Vendor (DEMO),2026-08-29,2026-08-28,Completed (DEMO)
+CHK-005-09,CAND-005,9,HR verification,COMPLETED,HR-001,2026-08-27,2026-08-07,Completed (DEMO)
+CHK-005-10,CAND-005,10,Manager verification,COMPLETED,MGR-005,2026-08-29,2026-08-30,Completed (DEMO)
+CHK-005-11,CAND-005,11,IT account created,COMPLETED,IT Team,2026-08-29,2026-08-29,Completed (DEMO)
+CHK-005-12,CAND-005,12,Official email created,COMPLETED,IT Team,2026-08-29,2026-08-29,Completed (DEMO)
+CHK-005-13,CAND-005,13,System access granted,COMPLETED,IT Team,2026-09-01,2026-09-01,Completed (DEMO)
+CHK-005-14,CAND-005,14,Orientation completed,COMPLETED,HR-001,2026-09-06,2026-09-04,Completed (DEMO)
+CHK-005-15,CAND-005,15,NDA signed,COMPLETED,Candidate,2026-09-01,2026-08-03,Completed (DEMO)
+CHK-005-16,CAND-005,16,Policy acknowledgement,COMPLETED,Candidate,2026-09-02,2026-08-05,Completed (DEMO)
+CHK-005-17,CAND-005,17,Joining completed,COMPLETED,HR-001,2026-09-01,2026-09-01,Completed (DEMO)
+CHK-006-01,CAND-006,1,Personal information submitted,COMPLETED,Candidate,2026-09-17,2026-09-11,Completed (DEMO)
+CHK-006-02,CAND-006,2,Identity documents submitted,COMPLETED,Candidate,2026-09-17,2026-09-14,Completed (DEMO)
+CHK-006-03,CAND-006,3,Address proof submitted,COMPLETED,Candidate,2026-09-17,2026-09-15,Completed (DEMO)
+CHK-006-04,CAND-006,4,Education documents submitted,COMPLETED,Candidate,2026-09-17,2026-09-16,Completed (DEMO)
+CHK-006-05,CAND-006,5,Bank details submitted,COMPLETED,Candidate,2026-09-17,2026-09-16,Completed (DEMO)
+CHK-006-06,CAND-006,6,Offer letter generated,COMPLETED,HR-001,2026-09-08,2026-09-08,Completed (DEMO)
+CHK-006-07,CAND-006,7,Offer letter accepted,COMPLETED,Candidate,2026-09-15,2026-09-10,Completed (DEMO)
+CHK-006-08,CAND-006,8,Background verification,PENDING,BGV Vendor (DEMO),2026-10-09,,Pending
+CHK-006-09,CAND-006,9,HR verification,IN_PROGRESS,HR-001,2026-10-07,,In progress
+CHK-006-10,CAND-006,10,Manager verification,PENDING,MGR-001,2026-10-09,,Pending
+CHK-006-11,CAND-006,11,IT account created,PENDING,IT Team,2026-10-09,,Pending
+CHK-006-12,CAND-006,12,Official email created,PENDING,IT Team,2026-10-09,,Pending
+CHK-006-13,CAND-006,13,System access granted,PENDING,IT Team,2026-10-12,,Pending
+CHK-006-14,CAND-006,14,Orientation completed,PENDING,HR-001,2026-10-17,,Pending
+CHK-006-15,CAND-006,15,NDA signed,IN_PROGRESS,Candidate,2026-10-12,,In progress
+CHK-006-16,CAND-006,16,Policy acknowledgement,IN_PROGRESS,Candidate,2026-10-13,,In progress
+CHK-006-17,CAND-006,17,Joining completed,PENDING,HR-001,2026-10-12,,Pending
+CHK-007-01,CAND-007,1,Personal information submitted,COMPLETED,Candidate,2026-09-18,2026-09-12,Completed (DEMO)
+CHK-007-02,CAND-007,2,Identity documents submitted,COMPLETED,Candidate,2026-09-18,2026-09-15,Completed (DEMO)
+CHK-007-03,CAND-007,3,Address proof submitted,COMPLETED,Candidate,2026-09-18,2026-09-16,Completed (DEMO)
+CHK-007-04,CAND-007,4,Education documents submitted,COMPLETED,Candidate,2026-09-18,2026-09-17,Completed (DEMO)
+CHK-007-05,CAND-007,5,Bank details submitted,COMPLETED,Candidate,2026-09-18,2026-09-17,Completed (DEMO)
+CHK-007-06,CAND-007,6,Offer letter generated,COMPLETED,HR-001,2026-09-10,2026-09-10,Completed (DEMO)
+CHK-007-07,CAND-007,7,Offer letter accepted,COMPLETED,Candidate,2026-09-17,2026-09-11,Completed (DEMO)
+CHK-007-08,CAND-007,8,Background verification,PENDING,BGV Vendor (DEMO),2026-10-09,,Pending
+CHK-007-09,CAND-007,9,HR verification,IN_PROGRESS,HR-001,2026-10-07,,In progress
+CHK-007-10,CAND-007,10,Manager verification,PENDING,MGR-001,2026-10-09,,Pending
+CHK-007-11,CAND-007,11,IT account created,PENDING,IT Team,2026-10-09,,Pending
+CHK-007-12,CAND-007,12,Official email created,PENDING,IT Team,2026-10-09,,Pending
+CHK-007-13,CAND-007,13,System access granted,PENDING,IT Team,2026-10-12,,Pending
+CHK-007-14,CAND-007,14,Orientation completed,PENDING,HR-001,2026-10-17,,Pending
+CHK-007-15,CAND-007,15,NDA signed,IN_PROGRESS,Candidate,2026-10-12,,In progress
+CHK-007-16,CAND-007,16,Policy acknowledgement,IN_PROGRESS,Candidate,2026-10-13,,In progress
+CHK-007-17,CAND-007,17,Joining completed,PENDING,HR-001,2026-10-12,,Pending
+CHK-008-01,CAND-008,1,Personal information submitted,COMPLETED,Candidate,2026-09-11,2026-09-05,Completed (DEMO)
+CHK-008-02,CAND-008,2,Identity documents submitted,COMPLETED,Candidate,2026-09-11,2026-09-08,Completed (DEMO)
+CHK-008-03,CAND-008,3,Address proof submitted,COMPLETED,Candidate,2026-09-11,2026-09-09,Completed (DEMO)
+CHK-008-04,CAND-008,4,Education documents submitted,COMPLETED,Candidate,2026-09-11,2026-09-10,Completed (DEMO)
+CHK-008-05,CAND-008,5,Bank details submitted,PENDING,Candidate,2026-09-11,,Bank proof not uploaded
+CHK-008-06,CAND-008,6,Offer letter generated,COMPLETED,HR-002,2026-09-02,2026-09-02,Completed (DEMO)
+CHK-008-07,CAND-008,7,Offer letter accepted,COMPLETED,Candidate,2026-09-09,2026-09-04,Completed (DEMO)
+CHK-008-08,CAND-008,8,Background verification,IN_PROGRESS,BGV Vendor (DEMO),2026-10-02,,In progress
+CHK-008-09,CAND-008,9,HR verification,BLOCKED,HR-002,2026-09-30,,Blocked - see document remarks
+CHK-008-10,CAND-008,10,Manager verification,COMPLETED,MGR-002,2026-10-02,2026-09-13,Completed (DEMO)
+CHK-008-11,CAND-008,11,IT account created,IN_PROGRESS,IT Team,2026-10-02,,In progress
+CHK-008-12,CAND-008,12,Official email created,IN_PROGRESS,IT Team,2026-10-02,,In progress
+CHK-008-13,CAND-008,13,System access granted,PENDING,IT Team,2026-10-05,,Pending
+CHK-008-14,CAND-008,14,Orientation completed,PENDING,HR-002,2026-10-10,,Pending
+CHK-008-15,CAND-008,15,NDA signed,COMPLETED,Candidate,2026-10-05,2026-09-09,Completed (DEMO)
+CHK-008-16,CAND-008,16,Policy acknowledgement,COMPLETED,Candidate,2026-10-06,2026-09-11,Completed (DEMO)
+CHK-008-17,CAND-008,17,Joining completed,PENDING,HR-002,2026-10-05,,Pending
+CHK-009-01,CAND-009,1,Personal information submitted,COMPLETED,Candidate,2026-09-12,2026-09-06,Completed (DEMO)
+CHK-009-02,CAND-009,2,Identity documents submitted,COMPLETED,Candidate,2026-09-12,2026-09-09,Completed (DEMO)
+CHK-009-03,CAND-009,3,Address proof submitted,COMPLETED,Candidate,2026-09-12,2026-09-10,Completed (DEMO)
+CHK-009-04,CAND-009,4,Education documents submitted,COMPLETED,Candidate,2026-09-12,2026-09-11,Completed (DEMO)
+CHK-009-05,CAND-009,5,Bank details submitted,PENDING,Candidate,2026-09-12,,Bank proof not uploaded
+CHK-009-06,CAND-009,6,Offer letter generated,COMPLETED,HR-002,2026-09-03,2026-09-03,Completed (DEMO)
+CHK-009-07,CAND-009,7,Offer letter accepted,COMPLETED,Candidate,2026-09-10,2026-09-05,Completed (DEMO)
+CHK-009-08,CAND-009,8,Background verification,IN_PROGRESS,BGV Vendor (DEMO),2026-10-02,,In progress
+CHK-009-09,CAND-009,9,HR verification,BLOCKED,HR-002,2026-09-30,,Blocked - see document remarks
+CHK-009-10,CAND-009,10,Manager verification,COMPLETED,MGR-002,2026-10-02,2026-09-14,Completed (DEMO)
+CHK-009-11,CAND-009,11,IT account created,IN_PROGRESS,IT Team,2026-10-02,,In progress
+CHK-009-12,CAND-009,12,Official email created,IN_PROGRESS,IT Team,2026-10-02,,In progress
+CHK-009-13,CAND-009,13,System access granted,PENDING,IT Team,2026-10-05,,Pending
+CHK-009-14,CAND-009,14,Orientation completed,PENDING,HR-002,2026-10-10,,Pending
+CHK-009-15,CAND-009,15,NDA signed,COMPLETED,Candidate,2026-10-05,2026-09-10,Completed (DEMO)
+CHK-009-16,CAND-009,16,Policy acknowledgement,COMPLETED,Candidate,2026-10-06,2026-09-12,Completed (DEMO)
+CHK-009-17,CAND-009,17,Joining completed,PENDING,HR-002,2026-10-05,,Pending
+CHK-010-01,CAND-010,1,Personal information submitted,COMPLETED,Candidate,2026-09-07,2026-09-01,Completed (DEMO)
+CHK-010-02,CAND-010,2,Identity documents submitted,COMPLETED,Candidate,2026-09-07,2026-09-04,Completed (DEMO)
+CHK-010-03,CAND-010,3,Address proof submitted,COMPLETED,Candidate,2026-09-07,2026-09-05,Completed (DEMO)
+CHK-010-04,CAND-010,4,Education documents submitted,PENDING,Candidate,2026-09-07,,Degree / graduation documents not uploaded
+CHK-010-05,CAND-010,5,Bank details submitted,COMPLETED,Candidate,2026-09-07,2026-09-06,Completed (DEMO)
+CHK-010-06,CAND-010,6,Offer letter generated,COMPLETED,HR-002,2026-08-28,2026-08-28,Completed (DEMO)
+CHK-010-07,CAND-010,7,Offer letter accepted,COMPLETED,Candidate,2026-09-04,2026-08-31,Completed (DEMO)
+CHK-010-08,CAND-010,8,Background verification,IN_PROGRESS,BGV Vendor (DEMO),2026-10-02,,In progress
+CHK-010-09,CAND-010,9,HR verification,BLOCKED,HR-002,2026-09-30,,Blocked - see document remarks
+CHK-010-10,CAND-010,10,Manager verification,PENDING,MGR-004,2026-10-02,,Pending
+CHK-010-11,CAND-010,11,IT account created,PENDING,IT Team,2026-10-02,,Pending
+CHK-010-12,CAND-010,12,Official email created,PENDING,IT Team,2026-10-02,,Pending
+CHK-010-13,CAND-010,13,System access granted,PENDING,IT Team,2026-10-05,,Pending
+CHK-010-14,CAND-010,14,Orientation completed,PENDING,HR-002,2026-10-10,,Pending
+CHK-010-15,CAND-010,15,NDA signed,COMPLETED,Candidate,2026-10-05,2026-09-05,Completed (DEMO)
+CHK-010-16,CAND-010,16,Policy acknowledgement,COMPLETED,Candidate,2026-10-06,2026-09-07,Completed (DEMO)
+CHK-010-17,CAND-010,17,Joining completed,PENDING,HR-002,2026-10-05,,Pending
+CHK-011-01,CAND-011,1,Personal information submitted,COMPLETED,Candidate,2026-09-08,2026-09-02,Completed (DEMO)
+CHK-011-02,CAND-011,2,Identity documents submitted,COMPLETED,Candidate,2026-09-08,2026-09-05,Completed (DEMO)
+CHK-011-03,CAND-011,3,Address proof submitted,COMPLETED,Candidate,2026-09-08,2026-09-06,Completed (DEMO)
+CHK-011-04,CAND-011,4,Education documents submitted,PENDING,Candidate,2026-09-08,,Degree / graduation documents not uploaded
+CHK-011-05,CAND-011,5,Bank details submitted,COMPLETED,Candidate,2026-09-08,2026-09-07,Completed (DEMO)
+CHK-011-06,CAND-011,6,Offer letter generated,COMPLETED,HR-002,2026-08-30,2026-08-30,Completed (DEMO)
+CHK-011-07,CAND-011,7,Offer letter accepted,COMPLETED,Candidate,2026-09-06,2026-09-01,Completed (DEMO)
+CHK-011-08,CAND-011,8,Background verification,IN_PROGRESS,BGV Vendor (DEMO),2026-10-02,,In progress
+CHK-011-09,CAND-011,9,HR verification,BLOCKED,HR-002,2026-09-30,,Blocked - see document remarks
+CHK-011-10,CAND-011,10,Manager verification,PENDING,MGR-003,2026-10-02,,Pending
+CHK-011-11,CAND-011,11,IT account created,PENDING,IT Team,2026-10-02,,Pending
+CHK-011-12,CAND-011,12,Official email created,PENDING,IT Team,2026-10-02,,Pending
+CHK-011-13,CAND-011,13,System access granted,PENDING,IT Team,2026-10-05,,Pending
+CHK-011-14,CAND-011,14,Orientation completed,PENDING,HR-002,2026-10-10,,Pending
+CHK-011-15,CAND-011,15,NDA signed,COMPLETED,Candidate,2026-10-05,2026-09-06,Completed (DEMO)
+CHK-011-16,CAND-011,16,Policy acknowledgement,COMPLETED,Candidate,2026-10-06,2026-09-08,Completed (DEMO)
+CHK-011-17,CAND-011,17,Joining completed,PENDING,HR-002,2026-10-05,,Pending
+CHK-012-01,CAND-012,1,Personal information submitted,COMPLETED,Candidate,2026-10-02,2026-09-26,Completed (DEMO)
+CHK-012-02,CAND-012,2,Identity documents submitted,COMPLETED,Candidate,2026-10-02,2026-09-29,Completed (DEMO)
+CHK-012-03,CAND-012,3,Address proof submitted,COMPLETED,Candidate,2026-10-02,2026-09-30,Completed (DEMO)
+CHK-012-04,CAND-012,4,Education documents submitted,COMPLETED,Candidate,2026-10-02,2026-10-01,Completed (DEMO)
+CHK-012-05,CAND-012,5,Bank details submitted,PENDING,Candidate,2026-10-02,,Bank proof not uploaded
+CHK-012-06,CAND-012,6,Offer letter generated,COMPLETED,HR-002,2026-09-22,2026-09-22,Completed (DEMO)
+CHK-012-07,CAND-012,7,Offer letter accepted,COMPLETED,Candidate,2026-09-29,2026-09-25,Completed (DEMO)
+CHK-012-08,CAND-012,8,Background verification,PENDING,BGV Vendor (DEMO),2026-10-16,,Pending
+CHK-012-09,CAND-012,9,HR verification,PENDING,HR-002,2026-10-14,,Pending
+CHK-012-10,CAND-012,10,Manager verification,PENDING,MGR-003,2026-10-16,,Pending
+CHK-012-11,CAND-012,11,IT account created,PENDING,IT Team,2026-10-16,,Pending
+CHK-012-12,CAND-012,12,Official email created,PENDING,IT Team,2026-10-16,,Pending
+CHK-012-13,CAND-012,13,System access granted,PENDING,IT Team,2026-10-19,,Pending
+CHK-012-14,CAND-012,14,Orientation completed,PENDING,HR-002,2026-10-24,,Pending
+CHK-012-15,CAND-012,15,NDA signed,PENDING,Candidate,2026-10-19,,Pending
+CHK-012-16,CAND-012,16,Policy acknowledgement,PENDING,Candidate,2026-10-20,,Pending
+CHK-012-17,CAND-012,17,Joining completed,PENDING,HR-002,2026-10-19,,Pending
+CHK-013-01,CAND-013,1,Personal information submitted,COMPLETED,Candidate,2026-10-03,2026-09-27,Completed (DEMO)
+CHK-013-02,CAND-013,2,Identity documents submitted,COMPLETED,Candidate,2026-10-03,2026-09-30,Completed (DEMO)
+CHK-013-03,CAND-013,3,Address proof submitted,COMPLETED,Candidate,2026-10-03,2026-10-01,Completed (DEMO)
+CHK-013-04,CAND-013,4,Education documents submitted,COMPLETED,Candidate,2026-10-03,2026-10-02,Completed (DEMO)
+CHK-013-05,CAND-013,5,Bank details submitted,PENDING,Candidate,2026-10-03,,Bank proof not uploaded
+CHK-013-06,CAND-013,6,Offer letter generated,COMPLETED,HR-002,2026-09-24,2026-09-24,Completed (DEMO)
+CHK-013-07,CAND-013,7,Offer letter accepted,COMPLETED,Candidate,2026-10-01,2026-09-26,Completed (DEMO)
+CHK-013-08,CAND-013,8,Background verification,PENDING,BGV Vendor (DEMO),2026-10-16,,Pending
+CHK-013-09,CAND-013,9,HR verification,PENDING,HR-002,2026-10-14,,Pending
+CHK-013-10,CAND-013,10,Manager verification,PENDING,MGR-001,2026-10-16,,Pending
+CHK-013-11,CAND-013,11,IT account created,PENDING,IT Team,2026-10-16,,Pending
+CHK-013-12,CAND-013,12,Official email created,PENDING,IT Team,2026-10-16,,Pending
+CHK-013-13,CAND-013,13,System access granted,PENDING,IT Team,2026-10-19,,Pending
+CHK-013-14,CAND-013,14,Orientation completed,PENDING,HR-002,2026-10-24,,Pending
+CHK-013-15,CAND-013,15,NDA signed,PENDING,Candidate,2026-10-19,,Pending
+CHK-013-16,CAND-013,16,Policy acknowledgement,PENDING,Candidate,2026-10-20,,Pending
+CHK-013-17,CAND-013,17,Joining completed,PENDING,HR-002,2026-10-19,,Pending
+CHK-014-01,CAND-014,1,Personal information submitted,COMPLETED,Candidate,2026-10-05,2026-09-29,Completed (DEMO)
+CHK-014-02,CAND-014,2,Identity documents submitted,COMPLETED,Candidate,2026-10-05,2026-10-02,Completed (DEMO)
+CHK-014-03,CAND-014,3,Address proof submitted,COMPLETED,Candidate,2026-10-05,2026-10-02,Completed (DEMO)
+CHK-014-04,CAND-014,4,Education documents submitted,COMPLETED,Candidate,2026-10-05,2026-10-02,Completed (DEMO)
+CHK-014-05,CAND-014,5,Bank details submitted,PENDING,Candidate,2026-10-05,,Bank proof not uploaded
+CHK-014-06,CAND-014,6,Offer letter generated,COMPLETED,HR-002,2026-09-25,2026-09-25,Completed (DEMO)
+CHK-014-07,CAND-014,7,Offer letter accepted,COMPLETED,Candidate,2026-10-02,2026-09-28,Completed (DEMO)
+CHK-014-08,CAND-014,8,Background verification,PENDING,BGV Vendor (DEMO),2026-10-23,,Pending
+CHK-014-09,CAND-014,9,HR verification,PENDING,HR-002,2026-10-21,,Pending
+CHK-014-10,CAND-014,10,Manager verification,PENDING,MGR-006,2026-10-23,,Pending
+CHK-014-11,CAND-014,11,IT account created,PENDING,IT Team,2026-10-23,,Pending
+CHK-014-12,CAND-014,12,Official email created,PENDING,IT Team,2026-10-23,,Pending
+CHK-014-13,CAND-014,13,System access granted,PENDING,IT Team,2026-10-26,,Pending
+CHK-014-14,CAND-014,14,Orientation completed,PENDING,HR-002,2026-10-31,,Pending
+CHK-014-15,CAND-014,15,NDA signed,PENDING,Candidate,2026-10-26,,Pending
+CHK-014-16,CAND-014,16,Policy acknowledgement,PENDING,Candidate,2026-10-27,,Pending
+CHK-014-17,CAND-014,17,Joining completed,PENDING,HR-002,2026-10-26,,Pending
+CHK-015-01,CAND-015,1,Personal information submitted,COMPLETED,Candidate,2026-09-10,2026-09-04,Completed (DEMO)
+CHK-015-02,CAND-015,2,Identity documents submitted,COMPLETED,Candidate,2026-09-10,2026-09-07,Completed (DEMO)
+CHK-015-03,CAND-015,3,Address proof submitted,COMPLETED,Candidate,2026-09-10,2026-09-08,Completed (DEMO)
+CHK-015-04,CAND-015,4,Education documents submitted,COMPLETED,Candidate,2026-09-10,2026-09-09,Completed (DEMO)
+CHK-015-05,CAND-015,5,Bank details submitted,COMPLETED,Candidate,2026-09-10,2026-09-09,Completed (DEMO)
+CHK-015-06,CAND-015,6,Offer letter generated,COMPLETED,HR-003,2026-09-01,2026-09-01,Completed (DEMO)
+CHK-015-07,CAND-015,7,Offer letter accepted,COMPLETED,Candidate,2026-09-08,2026-09-03,Completed (DEMO)
+CHK-015-08,CAND-015,8,Background verification,COMPLETED,BGV Vendor (DEMO),2026-10-02,2026-09-14,Completed (DEMO)
+CHK-015-09,CAND-015,9,HR verification,COMPLETED,HR-003,2026-09-30,2026-09-12,Completed (DEMO)
+CHK-015-10,CAND-015,10,Manager verification,PENDING,MGR-001,2026-10-02,,Pending
+CHK-015-11,CAND-015,11,IT account created,IN_PROGRESS,IT Team,2026-10-02,,In progress
+CHK-015-12,CAND-015,12,Official email created,PENDING,IT Team,2026-10-02,,Pending
+CHK-015-13,CAND-015,13,System access granted,PENDING,IT Team,2026-10-05,,Pending
+CHK-015-14,CAND-015,14,Orientation completed,PENDING,HR-003,2026-10-10,,Pending
+CHK-015-15,CAND-015,15,NDA signed,COMPLETED,Candidate,2026-10-05,2026-09-08,Completed (DEMO)
+CHK-015-16,CAND-015,16,Policy acknowledgement,COMPLETED,Candidate,2026-10-06,2026-09-10,Completed (DEMO)
+CHK-015-17,CAND-015,17,Joining completed,PENDING,HR-003,2026-10-05,,Pending
+CHK-016-01,CAND-016,1,Personal information submitted,COMPLETED,Candidate,2026-09-10,2026-09-04,Completed (DEMO)
+CHK-016-02,CAND-016,2,Identity documents submitted,COMPLETED,Candidate,2026-09-10,2026-09-07,Completed (DEMO)
+CHK-016-03,CAND-016,3,Address proof submitted,COMPLETED,Candidate,2026-09-10,2026-09-08,Completed (DEMO)
+CHK-016-04,CAND-016,4,Education documents submitted,COMPLETED,Candidate,2026-09-10,2026-09-09,Completed (DEMO)
+CHK-016-05,CAND-016,5,Bank details submitted,COMPLETED,Candidate,2026-09-10,2026-09-09,Completed (DEMO)
+CHK-016-06,CAND-016,6,Offer letter generated,COMPLETED,HR-003,2026-09-02,2026-09-02,Completed (DEMO)
+CHK-016-07,CAND-016,7,Offer letter accepted,COMPLETED,Candidate,2026-09-09,2026-09-03,Completed (DEMO)
+CHK-016-08,CAND-016,8,Background verification,COMPLETED,BGV Vendor (DEMO),2026-10-02,2026-09-14,Completed (DEMO)
+CHK-016-09,CAND-016,9,HR verification,COMPLETED,HR-003,2026-09-30,2026-09-12,Completed (DEMO)
+CHK-016-10,CAND-016,10,Manager verification,PENDING,MGR-006,2026-10-02,,Pending
+CHK-016-11,CAND-016,11,IT account created,IN_PROGRESS,IT Team,2026-10-02,,In progress
+CHK-016-12,CAND-016,12,Official email created,PENDING,IT Team,2026-10-02,,Pending
+CHK-016-13,CAND-016,13,System access granted,PENDING,IT Team,2026-10-05,,Pending
+CHK-016-14,CAND-016,14,Orientation completed,PENDING,HR-003,2026-10-10,,Pending
+CHK-016-15,CAND-016,15,NDA signed,COMPLETED,Candidate,2026-10-05,2026-09-08,Completed (DEMO)
+CHK-016-16,CAND-016,16,Policy acknowledgement,COMPLETED,Candidate,2026-10-06,2026-09-10,Completed (DEMO)
+CHK-016-17,CAND-016,17,Joining completed,PENDING,HR-003,2026-10-05,,Pending
+CHK-017-01,CAND-017,1,Personal information submitted,COMPLETED,Candidate,2026-09-02,2026-08-27,Completed (DEMO)
+CHK-017-02,CAND-017,2,Identity documents submitted,COMPLETED,Candidate,2026-09-02,2026-08-30,Completed (DEMO)
+CHK-017-03,CAND-017,3,Address proof submitted,COMPLETED,Candidate,2026-09-02,2026-08-31,Completed (DEMO)
+CHK-017-04,CAND-017,4,Education documents submitted,COMPLETED,Candidate,2026-09-02,2026-09-01,Completed (DEMO)
+CHK-017-05,CAND-017,5,Bank details submitted,COMPLETED,Candidate,2026-09-02,2026-09-01,Completed (DEMO)
+CHK-017-06,CAND-017,6,Offer letter generated,COMPLETED,HR-003,2026-08-24,2026-08-24,Completed (DEMO)
+CHK-017-07,CAND-017,7,Offer letter accepted,COMPLETED,Candidate,2026-08-31,2026-08-26,Completed (DEMO)
+CHK-017-08,CAND-017,8,Background verification,IN_PROGRESS,BGV Vendor (DEMO),2026-09-18,,In progress
+CHK-017-09,CAND-017,9,HR verification,COMPLETED,HR-003,2026-09-16,2026-09-04,Completed (DEMO)
+CHK-017-10,CAND-017,10,Manager verification,COMPLETED,MGR-001,2026-09-18,2026-09-19,Completed (DEMO)
+CHK-017-11,CAND-017,11,IT account created,COMPLETED,IT Team,2026-09-18,2026-09-18,Completed (DEMO)
+CHK-017-12,CAND-017,12,Official email created,COMPLETED,IT Team,2026-09-18,2026-09-18,Completed (DEMO)
+CHK-017-13,CAND-017,13,System access granted,COMPLETED,IT Team,2026-09-21,2026-09-21,Completed (DEMO)
+CHK-017-14,CAND-017,14,Orientation completed,COMPLETED,HR-003,2026-09-26,2026-09-24,Completed (DEMO)
+CHK-017-15,CAND-017,15,NDA signed,COMPLETED,Candidate,2026-09-21,2026-08-31,Completed (DEMO)
+CHK-017-16,CAND-017,16,Policy acknowledgement,COMPLETED,Candidate,2026-09-22,2026-09-02,Completed (DEMO)
+CHK-017-17,CAND-017,17,Joining completed,COMPLETED,HR-003,2026-09-21,2026-09-21,Completed (DEMO)
+CHK-018-01,CAND-018,1,Personal information submitted,COMPLETED,Candidate,2026-09-03,2026-08-28,Completed (DEMO)
+CHK-018-02,CAND-018,2,Identity documents submitted,COMPLETED,Candidate,2026-09-03,2026-08-31,Completed (DEMO)
+CHK-018-03,CAND-018,3,Address proof submitted,COMPLETED,Candidate,2026-09-03,2026-09-01,Completed (DEMO)
+CHK-018-04,CAND-018,4,Education documents submitted,COMPLETED,Candidate,2026-09-03,2026-09-02,Completed (DEMO)
+CHK-018-05,CAND-018,5,Bank details submitted,COMPLETED,Candidate,2026-09-03,2026-09-02,Completed (DEMO)
+CHK-018-06,CAND-018,6,Offer letter generated,COMPLETED,HR-003,2026-08-25,2026-08-25,Completed (DEMO)
+CHK-018-07,CAND-018,7,Offer letter accepted,COMPLETED,Candidate,2026-09-01,2026-08-27,Completed (DEMO)
+CHK-018-08,CAND-018,8,Background verification,IN_PROGRESS,BGV Vendor (DEMO),2026-09-18,,In progress
+CHK-018-09,CAND-018,9,HR verification,COMPLETED,HR-003,2026-09-16,2026-09-05,Completed (DEMO)
+CHK-018-10,CAND-018,10,Manager verification,COMPLETED,MGR-007,2026-09-18,2026-09-19,Completed (DEMO)
+CHK-018-11,CAND-018,11,IT account created,COMPLETED,IT Team,2026-09-18,2026-09-18,Completed (DEMO)
+CHK-018-12,CAND-018,12,Official email created,COMPLETED,IT Team,2026-09-18,2026-09-18,Completed (DEMO)
+CHK-018-13,CAND-018,13,System access granted,COMPLETED,IT Team,2026-09-21,2026-09-21,Completed (DEMO)
+CHK-018-14,CAND-018,14,Orientation completed,COMPLETED,HR-003,2026-09-26,2026-09-24,Completed (DEMO)
+CHK-018-15,CAND-018,15,NDA signed,COMPLETED,Candidate,2026-09-21,2026-09-01,Completed (DEMO)
+CHK-018-16,CAND-018,16,Policy acknowledgement,COMPLETED,Candidate,2026-09-22,2026-09-03,Completed (DEMO)
+CHK-018-17,CAND-018,17,Joining completed,COMPLETED,HR-003,2026-09-21,2026-09-21,Completed (DEMO)
+CHK-019-01,CAND-019,1,Personal information submitted,COMPLETED,Candidate,2026-09-14,2026-09-08,Completed (DEMO)
+CHK-019-02,CAND-019,2,Identity documents submitted,COMPLETED,Candidate,2026-09-14,2026-09-11,Completed (DEMO)
+CHK-019-03,CAND-019,3,Address proof submitted,BLOCKED,Candidate,2026-09-14,,Blocked - see document remarks
+CHK-019-04,CAND-019,4,Education documents submitted,COMPLETED,Candidate,2026-09-14,2026-09-13,Completed (DEMO)
+CHK-019-05,CAND-019,5,Bank details submitted,COMPLETED,Candidate,2026-09-14,2026-09-13,Completed (DEMO)
+CHK-019-06,CAND-019,6,Offer letter generated,COMPLETED,HR-003,2026-09-05,2026-09-05,Completed (DEMO)
+CHK-019-07,CAND-019,7,Offer letter accepted,COMPLETED,Candidate,2026-09-12,2026-09-07,Completed (DEMO)
+CHK-019-08,CAND-019,8,Background verification,PENDING,BGV Vendor (DEMO),2026-10-02,,Pending
+CHK-019-09,CAND-019,9,HR verification,BLOCKED,HR-003,2026-09-30,,Blocked - see document remarks
+CHK-019-10,CAND-019,10,Manager verification,PENDING,MGR-005,2026-10-02,,Pending
+CHK-019-11,CAND-019,11,IT account created,PENDING,IT Team,2026-10-02,,Pending
+CHK-019-12,CAND-019,12,Official email created,PENDING,IT Team,2026-10-02,,Pending
+CHK-019-13,CAND-019,13,System access granted,PENDING,IT Team,2026-10-05,,Pending
+CHK-019-14,CAND-019,14,Orientation completed,PENDING,HR-003,2026-10-10,,Pending
+CHK-019-15,CAND-019,15,NDA signed,COMPLETED,Candidate,2026-10-05,2026-09-12,Completed (DEMO)
+CHK-019-16,CAND-019,16,Policy acknowledgement,PENDING,Candidate,2026-10-06,,Pending
+CHK-019-17,CAND-019,17,Joining completed,PENDING,HR-003,2026-10-05,,Pending
+CHK-020-01,CAND-020,1,Personal information submitted,COMPLETED,Candidate,2026-09-15,2026-09-09,Completed (DEMO)
+CHK-020-02,CAND-020,2,Identity documents submitted,COMPLETED,Candidate,2026-09-15,2026-09-12,Completed (DEMO)
+CHK-020-03,CAND-020,3,Address proof submitted,COMPLETED,Candidate,2026-09-15,2026-09-13,Completed (DEMO)
+CHK-020-04,CAND-020,4,Education documents submitted,COMPLETED,Candidate,2026-09-15,2026-09-14,Completed (DEMO)
+CHK-020-05,CAND-020,5,Bank details submitted,BLOCKED,Candidate,2026-09-15,,Blocked - see document remarks
+CHK-020-06,CAND-020,6,Offer letter generated,COMPLETED,HR-003,2026-09-07,2026-09-07,Completed (DEMO)
+CHK-020-07,CAND-020,7,Offer letter accepted,COMPLETED,Candidate,2026-09-14,2026-09-08,Completed (DEMO)
+CHK-020-08,CAND-020,8,Background verification,PENDING,BGV Vendor (DEMO),2026-10-02,,Pending
+CHK-020-09,CAND-020,9,HR verification,BLOCKED,HR-003,2026-09-30,,Blocked - see document remarks
+CHK-020-10,CAND-020,10,Manager verification,PENDING,MGR-003,2026-10-02,,Pending
+CHK-020-11,CAND-020,11,IT account created,PENDING,IT Team,2026-10-02,,Pending
+CHK-020-12,CAND-020,12,Official email created,PENDING,IT Team,2026-10-02,,Pending
+CHK-020-13,CAND-020,13,System access granted,PENDING,IT Team,2026-10-05,,Pending
+CHK-020-14,CAND-020,14,Orientation completed,PENDING,HR-003,2026-10-10,,Pending
+CHK-020-15,CAND-020,15,NDA signed,COMPLETED,Candidate,2026-10-05,2026-09-13,Completed (DEMO)
+CHK-020-16,CAND-020,16,Policy acknowledgement,PENDING,Candidate,2026-10-06,,Pending
+CHK-020-17,CAND-020,17,Joining completed,PENDING,HR-003,2026-10-05,,Pending

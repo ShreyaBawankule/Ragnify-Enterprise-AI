@@ -1,0 +1,69 @@
+# Python bytecode and caches
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+coverage.xml
+htmlcov/
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# Environment and secrets
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.crt
+
+# Application runtime data
+logs/
+*.log
+data/audio/*
+data/outputs/*
+data/temp/*
+!data/audio/.gitkeep
+!data/outputs/.gitkeep
+!data/temp/.gitkeep
+
+# Whisper and ML model caches
+.cache/
+models/
+*.pt
+*.pth
+*.ckpt
+*.onnx
+
+# Generated documents and media
+*.pdf
+*.docx
+*.xlsx
+*.mp3
+*.wav
+*.m4a
+*.webm
+
+# Packaging and build output
+build/
+dist/
+*.egg-info/
+pip-wheel-metadata/
+
+# IDE and OS files
+.idea/
+.vscode/
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
+
+# Docker local state
+.docker/
+docker-compose.override.yml

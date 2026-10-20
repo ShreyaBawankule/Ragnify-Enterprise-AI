@@ -1,0 +1,84 @@
+# ============================================================
+# RAGNIFY Enterprise Platform - Root .gitignore
+# ============================================================
+
+# Python bytecode, compilation, and test caches
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+.venv-*/
+**/.venv/
+**/venv/
+
+# Environment files and credentials (STRICT - NEVER UPLOAD)
+.env
+.env.*
+**/.env
+**/.env.*
+!.env.example
+!**/.env.example
+*.pem
+*.key
+*.crt
+credentials.json
+client_secrets.json
+
+# Node & Frontend dependencies and build outputs
+node_modules/
+**/node_modules/
+dist/
+**/dist/
+build/
+**/build/
+.npm
+package-lock.json.backup
+
+# Private Candidate Documents & Datasets (Personal Data Protection)
+**/RAGNIFY_GENERATED_DOCUMENTS/
+HR_onboaring datasets/datasets/RAGNIFY_GENERATED_DOCUMENTS/
+*.zip
+
+# Backend Runtime Uploads (Private Candidate Uploads & Meeting Audio)
+Enterprise_AI_Backend/uploads/audio/*
+!Enterprise_AI_Backend/uploads/audio/.gitkeep
+Enterprise_AI_Backend/uploads/documents/*
+!Enterprise_AI_Backend/uploads/documents/.gitkeep
+Enterprise_AI_Backend/uploads/generated_reports/*
+!Enterprise_AI_Backend/uploads/generated_reports/.gitkeep
+uploads/audio/*
+!uploads/audio/.gitkeep
+uploads/documents/*
+!uploads/documents/.gitkeep
+uploads/generated_reports/*
+!uploads/generated_reports/.gitkeep
+
+# Local Databases, Vector Stores & Caches
+*.sqlite3
+*.db
+Enterprise_AI_Backend/chroma_db/
+**/chroma_db/
+chroma_db/
+.cache/
+
+# IDE, OS, and VS Code Local History
+.history/
+**/.history/
+.vscode/
+**/.vscode/
+.idea/
+**/.idea/
+.DS_Store
+Thumbs.db
+*.log
+desktop.ini

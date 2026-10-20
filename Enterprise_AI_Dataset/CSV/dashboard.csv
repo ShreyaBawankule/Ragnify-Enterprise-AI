@@ -1,0 +1,11 @@
+Employee ID,Employee Name,Department,Total Tasks,Completed Tasks,Pending Tasks,In Progress Tasks,Overdue Tasks,Task Completion Rate,Employee Productivity,Estimated Hours,Actual Hours,Monthly Performance,Weekly Performance,Department Performance,Top Performer,Lowest Performer
+EMP001,Rohan Sharma,AI Team,6,6,0,0,0,100.0,10.0,102,102,100.0,100.0,75.0,Rohan Sharma,Karthik Reddy
+EMP002,Ananya Iyer,AI Team,6,3,0,3,3,50.0,6.0,108,80,53.5,75.0,75.0,Rohan Sharma,Karthik Reddy
+EMP003,Vikram Rao,Backend,6,6,0,0,0,100.0,10.0,102,102,100.0,100.0,100.0,Rohan Sharma,Karthik Reddy
+EMP004,Meera Krishnan,Backend,6,6,0,0,0,100.0,10.0,111,110,100.0,100.0,100.0,Rohan Sharma,Karthik Reddy
+EMP005,Arjun Patel,Frontend,6,6,0,0,0,100.0,10.0,93,94,100.0,100.0,75.0,Rohan Sharma,Karthik Reddy
+EMP006,Sneha Kulkarni,Frontend,6,3,0,3,3,50.0,6.0,96,76,53.5,75.0,75.0,Rohan Sharma,Karthik Reddy
+EMP007,Karthik Reddy,QA,6,0,3,3,6,0.0,0.0,93,24,0.0,25.0,25.0,Rohan Sharma,Karthik Reddy
+EMP008,Nisha Gupta,QA,6,3,2,1,3,50.0,4.67,111,56,48.84,58.33,25.0,Rohan Sharma,Karthik Reddy
+EMP009,Farhan Khan,HR,6,0,4,2,6,0.0,-0.67,93,22,-2.35,16.67,25.0,Rohan Sharma,Karthik Reddy
+EMP010,Divya Singh,HR,6,3,0,3,3,50.0,6.0,93,76,53.5,75.0,25.0,Rohan Sharma,Karthik Reddy

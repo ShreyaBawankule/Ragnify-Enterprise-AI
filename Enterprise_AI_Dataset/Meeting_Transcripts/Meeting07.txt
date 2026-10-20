@@ -1,0 +1,27 @@
+Meeting: RAG Module Deep Dive
+Date: 2026-04-02
+Organizer: Aarav Menon
+Participants: Rohan Sharma; Ananya Iyer; Vikram Rao; Nisha Gupta
+
+
+Aarav Menon: Thanks everyone. The agenda today is validate ingestion pipeline, embedding metadata, retrieval relevance, and fallback behavior. We will keep the discussion practical because the Enterprise AI Workspace is meant to feel like a product used inside a real software company, not a classroom prototype. I want each owner to explain progress, risk, and what support is needed before the next checkpoint.
+
+Rohan Sharma: From my side, the current work is aligned with the sprint board. The main concern is making sure the UI, API, and AI retrieval parts use the same employee, task, meeting, and document identifiers. If these keys stay consistent, the dashboard numbers and assistant answers will be easy to validate during the final demo.
+
+Ananya Iyer: The implementation detail that needs attention is access control. Employees should see their own task list, relevant meeting notes, and approved company policies. Managers should see team-level analytics, overdue items, department performance, and task status distribution. We should avoid giving the assistant unrestricted document context because HR and salary data are sensitive even in a demo dataset.
+
+Vikram Rao: QA will test the workflow as an end user. I will verify login, employee dashboard, manager dashboard, task filters, meeting list, document search, and assistant responses. For AI answers, the test will not only check whether text is generated, but whether it cites the right policy or transcript section and refuses unsupported claims.
+
+Aarav Menon: Good. Let us also talk about operational realism. TechNova Solutions Pvt. Ltd. has ten employees across AI, frontend, backend, HR, and QA, so the dataset must show daily collaboration. Tasks should be spread fairly, meetings should include actual participants, and documents should be written in a way that can be chunked for retrieval.
+
+Rohan Sharma: On the assistant side, the retrieval plan is to index company documents, document versions, meeting transcripts, and selected task summaries. The assistant should answer questions like who owns the RAG module, what changed in the leave policy, which tasks are overdue, and what action items came from the latest deployment meeting.
+
+Ananya Iyer: For the dashboard, I recommend computing metrics directly from the task dataset. Completed tasks, pending tasks, overdue tasks, completion rate, monthly performance, weekly performance, top performer, and lowest performer should all be derived values. That keeps the analytics honest and prevents mismatch between CSV, JSON, and SQL seed data.
+
+Vikram Rao: Testing will include cross-file checks. Every employee ID in tasks must exist, every manager ID must map to a manager, every meeting participant must exist in the employee table, and every completed task must have a completion date and actual hours. Any pending task with a deadline before the current date should appear as overdue.
+
+Aarav Menon: The decision is: Use document version metadata to prefer latest approved files while preserving older versions for audit. The action items are: Ananya to add version-aware retrieval tests; Vikram to expose document list endpoint; Nisha to run query set. Please update your tasks by end of day and add notes if anything is blocked. For the next meeting, bring evidence rather than verbal status only: screenshots, API response samples, test reports, or document diffs.
+
+Rohan Sharma: Agreed. I will also prepare two or three realistic questions for the AI assistant so the demo can show grounded retrieval. Examples include asking for work from home rules, sprint action items, and the difference between version one and version two of the project requirements.
+
+Aarav Menon: Perfect. We will close the meeting here. The project is in a good state, but the value will come from consistency. If the final dataset behaves like one connected enterprise system, the engineering story will be much stronger.

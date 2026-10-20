@@ -1,0 +1,55 @@
+{
+  "count": 10,
+  "documents": [
+    {
+      "title": "Company Overview",
+      "path": "Company_Documents/Company_Overview.md",
+      "type": "markdown"
+    },
+    {
+      "title": "Employee Handbook",
+      "path": "Company_Documents/Employee_Handbook.md",
+      "type": "markdown"
+    },
+    {
+      "title": "HR Policy",
+      "path": "Company_Documents/HR_Policy.md",
+      "type": "markdown"
+    },
+    {
+      "title": "Leave Policy",
+      "path": "Company_Documents/Leave_Policy.md",
+      "type": "markdown"
+    },
+    {
+      "title": "Work From Home Policy",
+      "path": "Company_Documents/Work_From_Home_Policy.md",
+      "type": "markdown"
+    },
+    {
+      "title": "Security Policy",
+      "path": "Company_Documents/Security_Policy.md",
+      "type": "markdown"
+    },
+    {
+      "title": "Code of Conduct",
+      "path": "Company_Documents/Code_of_Conduct.md",
+      "type": "markdown"
+    },
+    {
+      "title": "AI Development Guidelines",
+      "path": "Company_Documents/AI_Development_Guidelines.md",
+      "type": "markdown"
+    },
+    {
+      "title": "Project Alpha Requirements",
+      "path": "Company_Documents/Project_Alpha_Requirements.md",
+      "type": "markdown"
+    },
+    {
+      "title": "Project Beta Requirements",
+      "path": "Company_Documents/Project_Beta_Requirements.md",
+      "type": "markdown"
+    }
+  ]
+}

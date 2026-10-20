@@ -1,0 +1,130 @@
+{
+  "employee": {
+    "Employee ID": "EMP001",
+    "Full Name": "Rohan Sharma",
+    "Email": "rohan.sharma@technova.co.in",
+    "Phone Number": "+91-98765-22101",
+    "Gender": "Male",
+    "Date of Birth": "1998-03-14",
+    "Joining Date": "2022-07-11",
+    "Department": "AI Team",
+    "Designation": "AI Engineer",
+    "Manager ID": "MGR001",
+    "Experience": "4 years",
+    "Skills": "Python; LangChain; RAG; Prompt Engineering; Vector Databases",
+    "Salary (Demo)": 1150000,
+    "Employment Status": "Active"
+  },
+  "tasks": [
+    {
+      "Task ID": "TSK005",
+      "Task Title": "AI Assistant Integration - Sprint 1",
+      "Description": "Connect workspace chat UI to the internal AI assistant service with secure context passing.",
+      "Assigned Employee ID": "EMP001",
+      "Assigned Manager ID": "MGR001",
+      "Priority": "High",
+      "Status": "Completed",
+      "Created Date": "2026-01-14",
+      "Start Date": "2026-01-16",
+      "Deadline": "2026-01-25",
+      "Completion Date": "2026-01-25",
+      "Estimated Hours": 20,
+      "Actual Hours": 22
+    },
+    {
+      "Task ID": "TSK007",
+      "Task Title": "ChromaDB Setup - Sprint 1",
+      "Description": "Configure vector collection schema, metadata filters, and local development seeding.",
+      "Assigned Employee ID": "EMP001",
+      "Assigned Manager ID": "MGR001",
+      "Priority": "Medium",
+      "Status": "Completed",
+      "Created Date": "2026-01-18",
+      "Start Date": "2026-01-19",
+      "Deadline": "2026-01-30",
+      "Completion Date": "2026-01-29",
+      "Estimated Hours": 26,
+      "Actual Hours": 25
+    },
+    {
+      "Task ID": "TSK017",
+      "Task Title": "AI Assistant Integration - Sprint 2",
+      "Description": "Connect workspace chat UI to the internal AI assistant service with secure context passing.",
+      "Assigned Employee ID": "EMP001",
+      "Assigned Manager ID": "MGR001",
+      "Priority": "Medium",
+      "Status": "Completed",
+      "Created Date": "2026-02-07",
+      "Start Date": "2026-02-09",
+      "Deadline": "2026-02-14",
+      "Completion Date": "2026-02-14",
+      "Estimated Hours": 14,
+      "Actual Hours": 13
+    },
+    {
+      "Task ID": "TSK019",
+      "Task Title": "ChromaDB Setup - Sprint 2",
+      "Description": "Configure vector collection schema, metadata filters, and local development seeding.",
+      "Assigned Employee ID": "EMP001",
+      "Assigned Manager ID": "MGR001",
+      "Priority": "Low",
+      "Status": "Completed",
+      "Created Date": "2026-02-11",
+      "Start Date": "2026-02-12",
+      "Deadline": "2026-02-19",
+      "Completion Date": "2026-02-18",
+      "Estimated Hours": 20,
+      "Actual Hours": 21
+    },
+    {
+      "Task ID": "TSK029",
+      "Task Title": "AI Assistant Integration - Sprint 3",
+      "Description": "Connect workspace chat UI to the internal AI assistant service with secure context passing.",
+      "Assigned Employee ID": "EMP001",
+      "Assigned Manager ID": "MGR001",
+      "Priority": "Low",
+      "Status": "Completed",
+      "Created Date": "2026-03-03",
+      "Start Date": "2026-03-05",
+      "Deadline": "2026-03-14",
+      "Completion Date": "2026-03-14",
+      "Estimated Hours": 8,
+      "Actual Hours": 9
+    }
+  ],
+  "meetings": [
+    {
+      "Meeting ID": "MTG001",
+      "Meeting Title": "Sprint Planning for Enterprise AI Workspace",
+      "Date": "2026-01-08",
+      "Duration": "60 minutes",
+      "Organizer": "Aarav Menon",
+      "Participants": "Rohan Sharma; Ananya Iyer; Vikram Rao; Arjun Patel; Karthik Reddy",
+      "Agenda": "Finalize sprint scope and assign ownership for authentication, dashboards, and RAG discovery.",
+      "Decisions": "Sprint 1 will prioritize login, employee dashboard shell, authentication API, and RAG proof of concept.",
+      "Action Items": "Rohan to prepare vector store plan; Vikram to publish auth API contract; Arjun to start login page."
+    },
+    {
+      "Meeting ID": "MTG002",
+      "Meeting Title": "AI Assistant Architecture Review",
+      "Date": "2026-01-24",
+      "Duration": "75 minutes",
+      "Organizer": "Aarav Menon",
+      "Participants": "Rohan Sharma; Ananya Iyer; Vikram Rao; Meera Krishnan",
+      "Agenda": "Review AI assistant service boundary, document retrieval, security, and latency targets.",
+      "Decisions": "Adopt FastAPI service for assistant orchestration and keep document access filtered by role metadata.",
+      "Action Items": "Ananya to define evaluation set; Meera to add API logging; Rohan to configure ChromaDB collections."
+    },
+    {
+      "Meeting ID": "MTG005",
+      "Meeting Title": "HR Policy Digitization Workshop",
+      "Date": "2026-03-05",
+      "Duration": "50 minutes",
+      "Organizer": "Priya Nair",
+      "Participants": "Farhan Khan; Divya Singh; Rohan Sharma; Ananya Iyer",
+      "Agenda": "Prepare HR and company policy documents for RAG ingestion and employee self-service.",
+      "Decisions": "Policies will be chunked by section and tagged by policy type, effective date, and audience.",
+      "Action Items": "Farhan to finalize leave policy; Divya to standardize document headers; Ananya to test retrieval quality."
+    }
+  ]
+}

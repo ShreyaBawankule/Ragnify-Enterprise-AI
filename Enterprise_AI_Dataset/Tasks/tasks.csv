@@ -1,0 +1,61 @@
+Task ID,Task Title,Description,Assigned Employee ID,Assigned Manager ID,Priority,Status,Created Date,Start Date,Deadline,Completion Date,Estimated Hours,Actual Hours
+TSK001,Build Login Page - Sprint 1,"Create responsive login, validation, and error states for the Enterprise AI Workspace portal.",EMP005,MGR001,High,Completed,2026-01-06,2026-01-07,2026-01-12,2026-01-12,8,6
+TSK002,Develop Manager Dashboard - Sprint 1,"Implement manager metrics, team task filters, and drill-down panels.",EMP006,MGR001,Medium,Completed,2026-01-08,2026-01-10,2026-01-16,2026-01-15,11,10
+TSK003,Employee Dashboard - Sprint 1,"Build employee view for tasks, meetings, documents, and productivity cards.",EMP005,MGR001,Medium,Completed,2026-01-10,2026-01-13,2026-01-20,2026-01-19,14,14
+TSK004,Authentication API - Sprint 1,"Create JWT based login, refresh token, password policy checks, and audit logging.",EMP003,MGR001,Low,Completed,2026-01-12,2026-01-13,2026-01-21,2026-01-20,17,18
+TSK005,AI Assistant Integration - Sprint 1,Connect workspace chat UI to the internal AI assistant service with secure context passing.,EMP001,MGR001,High,Completed,2026-01-14,2026-01-16,2026-01-25,2026-01-25,20,22
+TSK006,RAG Integration - Sprint 1,"Build retrieval pipeline for policy documents, meeting transcripts, and project requirements.",EMP002,MGR001,High,Completed,2026-01-16,2026-01-19,2026-01-29,2026-01-28,23,21
+TSK007,ChromaDB Setup - Sprint 1,"Configure vector collection schema, metadata filters, and local development seeding.",EMP001,MGR001,Medium,Completed,2026-01-18,2026-01-19,2026-01-30,2026-01-29,26,25
+TSK008,Database Optimization - Sprint 1,Review slow dashboard queries and add indexes for task and employee analytics.,EMP003,MGR001,Medium,Completed,2026-01-20,2026-01-22,2026-02-03,2026-02-02,8,8
+TSK009,Bug Fixing - Sprint 1,"Fix defects from sprint QA, including form validation and API response handling.",EMP004,MGR001,Low,Completed,2026-01-22,2026-01-25,2026-01-30,2026-01-30,11,12
+TSK010,Unit Testing - Sprint 1,"Add unit tests for services, utility functions, and critical frontend components.",EMP008,MGR002,High,Completed,2026-01-24,2026-01-25,2026-01-31,2026-01-30,14,16
+TSK011,Deployment - Sprint 2,"Prepare Docker environment variables, deployment checklist, and release verification steps.",EMP004,MGR001,High,Completed,2026-01-26,2026-01-28,2026-02-04,2026-02-03,17,15
+TSK012,Documentation - Sprint 2,"Update developer README, API contract notes, and RAG document ingestion guide.",EMP010,MGR002,Medium,Completed,2026-01-28,2026-01-31,2026-02-08,2026-02-07,20,19
+TSK013,Build Login Page - Sprint 2,"Create responsive login, validation, and error states for the Enterprise AI Workspace portal.",EMP005,MGR001,Medium,Completed,2026-01-30,2026-01-31,2026-02-09,2026-02-09,23,23
+TSK014,Develop Manager Dashboard - Sprint 2,"Implement manager metrics, team task filters, and drill-down panels.",EMP006,MGR001,Low,Completed,2026-02-01,2026-02-03,2026-02-13,2026-02-12,26,27
+TSK015,Employee Dashboard - Sprint 2,"Build employee view for tasks, meetings, documents, and productivity cards.",EMP005,MGR001,High,Completed,2026-02-03,2026-02-06,2026-02-17,2026-02-16,8,10
+TSK016,Authentication API - Sprint 2,"Create JWT based login, refresh token, password policy checks, and audit logging.",EMP003,MGR001,High,Completed,2026-02-05,2026-02-06,2026-02-18,2026-02-17,11,9
+TSK017,AI Assistant Integration - Sprint 2,Connect workspace chat UI to the internal AI assistant service with secure context passing.,EMP001,MGR001,Medium,Completed,2026-02-07,2026-02-09,2026-02-14,2026-02-14,14,13
+TSK018,RAG Integration - Sprint 2,"Build retrieval pipeline for policy documents, meeting transcripts, and project requirements.",EMP002,MGR001,Medium,Completed,2026-02-09,2026-02-12,2026-02-18,2026-02-17,17,17
+TSK019,ChromaDB Setup - Sprint 2,"Configure vector collection schema, metadata filters, and local development seeding.",EMP001,MGR001,Low,Completed,2026-02-11,2026-02-12,2026-02-19,2026-02-18,20,21
+TSK020,Database Optimization - Sprint 2,Review slow dashboard queries and add indexes for task and employee analytics.,EMP003,MGR001,High,Completed,2026-02-13,2026-02-15,2026-02-23,2026-02-22,23,25
+TSK021,Bug Fixing - Sprint 3,"Fix defects from sprint QA, including form validation and API response handling.",EMP004,MGR001,High,Completed,2026-02-15,2026-02-18,2026-02-27,2026-02-27,26,24
+TSK022,Unit Testing - Sprint 3,"Add unit tests for services, utility functions, and critical frontend components.",EMP008,MGR002,Medium,Completed,2026-02-17,2026-02-18,2026-02-28,2026-02-27,8,7
+TSK023,Deployment - Sprint 3,"Prepare Docker environment variables, deployment checklist, and release verification steps.",EMP004,MGR001,Medium,Completed,2026-02-19,2026-02-21,2026-03-04,2026-03-03,11,11
+TSK024,Documentation - Sprint 3,"Update developer README, API contract notes, and RAG document ingestion guide.",EMP010,MGR002,Low,Completed,2026-02-21,2026-02-24,2026-03-08,2026-03-07,14,15
+TSK025,Build Login Page - Sprint 3,"Create responsive login, validation, and error states for the Enterprise AI Workspace portal.",EMP005,MGR001,High,Completed,2026-02-23,2026-02-24,2026-03-01,2026-03-01,17,19
+TSK026,Develop Manager Dashboard - Sprint 3,"Implement manager metrics, team task filters, and drill-down panels.",EMP006,MGR001,High,Completed,2026-02-25,2026-02-27,2026-03-05,2026-03-04,20,18
+TSK027,Employee Dashboard - Sprint 3,"Build employee view for tasks, meetings, documents, and productivity cards.",EMP005,MGR001,Medium,Completed,2026-02-27,2026-03-02,2026-03-09,2026-03-08,23,22
+TSK028,Authentication API - Sprint 3,"Create JWT based login, refresh token, password policy checks, and audit logging.",EMP003,MGR001,Medium,Completed,2026-03-01,2026-03-02,2026-03-10,2026-03-09,26,26
+TSK029,AI Assistant Integration - Sprint 3,Connect workspace chat UI to the internal AI assistant service with secure context passing.,EMP001,MGR001,Low,Completed,2026-03-03,2026-03-05,2026-03-14,2026-03-14,8,9
+TSK030,RAG Integration - Sprint 3,"Build retrieval pipeline for policy documents, meeting transcripts, and project requirements.",EMP002,MGR001,High,Completed,2026-03-05,2026-03-08,2026-03-18,2026-03-17,11,13
+TSK031,ChromaDB Setup - Sprint 4,"Configure vector collection schema, metadata filters, and local development seeding.",EMP001,MGR001,High,Completed,2026-03-07,2026-03-08,2026-03-19,2026-03-18,14,12
+TSK032,Database Optimization - Sprint 4,Review slow dashboard queries and add indexes for task and employee analytics.,EMP003,MGR001,Medium,Completed,2026-03-09,2026-03-11,2026-03-23,2026-03-22,17,16
+TSK033,Bug Fixing - Sprint 4,"Fix defects from sprint QA, including form validation and API response handling.",EMP004,MGR001,Medium,Completed,2026-03-11,2026-03-14,2026-03-19,2026-03-19,20,20
+TSK034,Unit Testing - Sprint 4,"Add unit tests for services, utility functions, and critical frontend components.",EMP008,MGR002,Low,Completed,2026-03-13,2026-03-14,2026-03-20,2026-03-19,23,24
+TSK035,Deployment - Sprint 4,"Prepare Docker environment variables, deployment checklist, and release verification steps.",EMP004,MGR001,High,Completed,2026-03-15,2026-03-17,2026-03-24,2026-03-23,26,28
+TSK036,Documentation - Sprint 4,"Update developer README, API contract notes, and RAG document ingestion guide.",EMP010,MGR002,High,Completed,2026-03-17,2026-03-20,2026-03-28,2026-03-27,8,6
+TSK037,Build Login Page - Sprint 4,"Create responsive login, validation, and error states for the Enterprise AI Workspace portal.",EMP007,MGR002,Medium,In Progress,2026-03-19,2026-03-20,2026-03-29,,11,4
+TSK038,Develop Manager Dashboard - Sprint 4,"Implement manager metrics, team task filters, and drill-down panels.",EMP006,MGR001,Medium,In Progress,2026-03-21,2026-03-23,2026-04-02,,14,7
+TSK039,Employee Dashboard - Sprint 4,"Build employee view for tasks, meetings, documents, and productivity cards.",EMP009,MGR002,Low,In Progress,2026-03-23,2026-03-26,2026-04-06,,17,11
+TSK040,Authentication API - Sprint 4,"Create JWT based login, refresh token, password policy checks, and audit logging.",EMP010,MGR002,High,In Progress,2026-03-25,2026-03-26,2026-04-07,,20,15
+TSK041,AI Assistant Integration - Sprint 5,Connect workspace chat UI to the internal AI assistant service with secure context passing.,EMP002,MGR001,High,In Progress,2026-03-27,2026-03-29,2026-04-03,,23,10
+TSK042,RAG Integration - Sprint 5,"Build retrieval pipeline for policy documents, meeting transcripts, and project requirements.",EMP002,MGR001,Medium,In Progress,2026-03-29,2026-04-01,2026-04-07,,26,14
+TSK043,ChromaDB Setup - Sprint 5,"Configure vector collection schema, metadata filters, and local development seeding.",EMP002,MGR001,Medium,In Progress,2026-03-31,2026-04-01,2026-04-08,,8,5
+TSK044,Database Optimization - Sprint 5,Review slow dashboard queries and add indexes for task and employee analytics.,EMP006,MGR001,Low,In Progress,2026-04-02,2026-04-04,2026-04-12,,11,8
+TSK045,Bug Fixing - Sprint 5,"Fix defects from sprint QA, including form validation and API response handling.",EMP006,MGR001,High,In Progress,2026-04-04,2026-04-07,2026-04-16,,14,6
+TSK046,Unit Testing - Sprint 5,"Add unit tests for services, utility functions, and critical frontend components.",EMP008,MGR002,High,In Progress,2026-04-06,2026-04-07,2026-04-17,,17,9
+TSK047,Deployment - Sprint 5,"Prepare Docker environment variables, deployment checklist, and release verification steps.",EMP007,MGR002,Medium,In Progress,2026-04-08,2026-04-10,2026-04-21,,20,13
+TSK048,Documentation - Sprint 5,"Update developer README, API contract notes, and RAG document ingestion guide.",EMP010,MGR002,Medium,In Progress,2026-04-10,2026-04-13,2026-04-25,,23,17
+TSK049,Build Login Page - Sprint 5,"Create responsive login, validation, and error states for the Enterprise AI Workspace portal.",EMP009,MGR002,Low,In Progress,2026-04-12,2026-04-13,2026-04-18,,26,11
+TSK050,Develop Manager Dashboard - Sprint 5,"Implement manager metrics, team task filters, and drill-down panels.",EMP010,MGR002,High,In Progress,2026-04-14,2026-04-16,2026-04-22,,8,4
+TSK051,Employee Dashboard - Sprint 6,"Build employee view for tasks, meetings, documents, and productivity cards.",EMP007,MGR002,High,In Progress,2026-04-16,2026-04-19,2026-04-26,,11,7
+TSK052,Authentication API - Sprint 6,"Create JWT based login, refresh token, password policy checks, and audit logging.",EMP007,MGR002,Medium,Pending,2026-04-18,2026-04-19,2026-06-25,,14,0
+TSK053,AI Assistant Integration - Sprint 6,Connect workspace chat UI to the internal AI assistant service with secure context passing.,EMP007,MGR002,Medium,Pending,2026-04-20,2026-04-22,2026-05-01,,17,0
+TSK054,RAG Integration - Sprint 6,"Build retrieval pipeline for policy documents, meeting transcripts, and project requirements.",EMP007,MGR002,Low,Pending,2026-04-22,2026-04-25,2026-05-05,,20,0
+TSK055,ChromaDB Setup - Sprint 6,"Configure vector collection schema, metadata filters, and local development seeding.",EMP008,MGR002,High,Pending,2026-04-24,2026-04-25,2026-06-22,,23,0
+TSK056,Database Optimization - Sprint 6,Review slow dashboard queries and add indexes for task and employee analytics.,EMP008,MGR002,High,Pending,2026-04-26,2026-04-28,2026-05-10,,26,0
+TSK057,Bug Fixing - Sprint 6,"Fix defects from sprint QA, including form validation and API response handling.",EMP009,MGR002,Medium,Pending,2026-04-28,2026-05-01,2026-05-06,,8,0
+TSK058,Unit Testing - Sprint 6,"Add unit tests for services, utility functions, and critical frontend components.",EMP009,MGR002,Medium,Pending,2026-04-30,2026-05-01,2026-06-24,,11,0
+TSK059,Deployment - Sprint 6,"Prepare Docker environment variables, deployment checklist, and release verification steps.",EMP009,MGR002,Low,Pending,2026-05-02,2026-05-04,2026-05-11,,14,0
+TSK060,Documentation - Sprint 6,"Update developer README, API contract notes, and RAG document ingestion guide.",EMP009,MGR002,High,Pending,2026-05-04,2026-05-07,2026-05-15,,17,0

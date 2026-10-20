@@ -1,0 +1,115 @@
+{
+  "count": 10,
+  "meetings": [
+    {
+      "Meeting ID": "MTG001",
+      "Meeting Title": "Sprint Planning for Enterprise AI Workspace",
+      "Date": "2026-01-08",
+      "Duration": "60 minutes",
+      "Organizer": "Aarav Menon",
+      "Participants": "Rohan Sharma; Ananya Iyer; Vikram Rao; Arjun Patel; Karthik Reddy",
+      "Agenda": "Finalize sprint scope and assign ownership for authentication, dashboards, and RAG discovery.",
+      "Decisions": "Sprint 1 will prioritize login, employee dashboard shell, authentication API, and RAG proof of concept.",
+      "Action Items": "Rohan to prepare vector store plan; Vikram to publish auth API contract; Arjun to start login page."
+    },
+    {
+      "Meeting ID": "MTG002",
+      "Meeting Title": "AI Assistant Architecture Review",
+      "Date": "2026-01-24",
+      "Duration": "75 minutes",
+      "Organizer": "Aarav Menon",
+      "Participants": "Rohan Sharma; Ananya Iyer; Vikram Rao; Meera Krishnan",
+      "Agenda": "Review AI assistant service boundary, document retrieval, security, and latency targets.",
+      "Decisions": "Adopt FastAPI service for assistant orchestration and keep document access filtered by role metadata.",
+      "Action Items": "Ananya to define evaluation set; Meera to add API logging; Rohan to configure ChromaDB collections."
+    },
+    {
+      "Meeting ID": "MTG003",
+      "Meeting Title": "Dashboard Progress Sync",
+      "Date": "2026-02-07",
+      "Duration": "45 minutes",
+      "Organizer": "Aarav Menon",
+      "Participants": "Arjun Patel; Sneha Kulkarni; Vikram Rao; Divya Singh",
+      "Agenda": "Check employee and manager dashboard progress, data contracts, and blocker list.",
+      "Decisions": "Manager dashboard will expose completion rate, overdue tasks, and department performance from the same task table.",
+      "Action Items": "Sneha to finish metric cards; Vikram to add task summary endpoint; Divya to validate label wording."
+    },
+    {
+      "Meeting ID": "MTG004",
+      "Meeting Title": "QA Test Strategy Review",
+      "Date": "2026-02-21",
+      "Duration": "60 minutes",
+      "Organizer": "Priya Nair",
+      "Participants": "Karthik Reddy; Nisha Gupta; Meera Krishnan; Arjun Patel",
+      "Agenda": "Define QA approach for authentication, dashboards, document retrieval, and regression cycles.",
+      "Decisions": "Cypress will cover core UI workflows and Postman collections will validate API contracts.",
+      "Action Items": "Karthik to draft test plan; Nisha to create regression checklist; Meera to share test credentials."
+    },
+    {
+      "Meeting ID": "MTG005",
+      "Meeting Title": "HR Policy Digitization Workshop",
+      "Date": "2026-03-05",
+      "Duration": "50 minutes",
+      "Organizer": "Priya Nair",
+      "Participants": "Farhan Khan; Divya Singh; Rohan Sharma; Ananya Iyer",
+      "Agenda": "Prepare HR and company policy documents for RAG ingestion and employee self-service.",
+      "Decisions": "Policies will be chunked by section and tagged by policy type, effective date, and audience.",
+      "Action Items": "Farhan to finalize leave policy; Divya to standardize document headers; Ananya to test retrieval quality."
+    },
+    {
+      "Meeting ID": "MTG006",
+      "Meeting Title": "Client Feedback Review for Project Alpha",
+      "Date": "2026-03-19",
+      "Duration": "60 minutes",
+      "Organizer": "Aarav Menon",
+      "Participants": "Rohan Sharma; Ananya Iyer; Arjun Patel; Sneha Kulkarni; Karthik Reddy",
+      "Agenda": "Discuss client feedback on dashboard navigation, assistant response tone, and export requirements.",
+      "Decisions": "Team will add clearer status filters, export-ready dashboard data, and concise assistant citations.",
+      "Action Items": "Sneha to update filter design; Rohan to tune assistant prompt; Karthik to add acceptance scenarios."
+    },
+    {
+      "Meeting ID": "MTG007",
+      "Meeting Title": "RAG Module Deep Dive",
+      "Date": "2026-04-02",
+      "Duration": "90 minutes",
+      "Organizer": "Aarav Menon",
+      "Participants": "Rohan Sharma; Ananya Iyer; Vikram Rao; Nisha Gupta",
+      "Agenda": "Validate ingestion pipeline, embedding metadata, retrieval relevance, and fallback behavior.",
+      "Decisions": "Use document version metadata to prefer latest approved files while preserving older versions for audit.",
+      "Action Items": "Ananya to add version-aware retrieval tests; Vikram to expose document list endpoint; Nisha to run query set."
+    },
+    {
+      "Meeting ID": "MTG008",
+      "Meeting Title": "Deployment Readiness Check",
+      "Date": "2026-04-23",
+      "Duration": "60 minutes",
+      "Organizer": "Aarav Menon",
+      "Participants": "Vikram Rao; Meera Krishnan; Karthik Reddy; Divya Singh",
+      "Agenda": "Review Docker setup, environment variables, rollback plan, and release documentation.",
+      "Decisions": "Release candidate will deploy to staging after security policy review and QA sign-off.",
+      "Action Items": "Meera to update compose file; Karthik to publish sign-off report; Divya to prepare release checklist."
+    },
+    {
+      "Meeting ID": "MTG009",
+      "Meeting Title": "Monthly Performance and Workload Review",
+      "Date": "2026-05-14",
+      "Duration": "55 minutes",
+      "Organizer": "Priya Nair",
+      "Participants": "Farhan Khan; Divya Singh; Karthik Reddy; Nisha Gupta; Sneha Kulkarni",
+      "Agenda": "Review employee workload balance, pending tasks, and support needs.",
+      "Decisions": "Tasks are evenly distributed, but QA requires two focused regression windows before final demo.",
+      "Action Items": "Farhan to update workload tracker; Nisha to flag high-risk test cases; Sneha to close dashboard UI issues."
+    },
+    {
+      "Meeting ID": "MTG010",
+      "Meeting Title": "Final Demo Preparation",
+      "Date": "2026-06-10",
+      "Duration": "75 minutes",
+      "Organizer": "Aarav Menon",
+      "Participants": "Rohan Sharma; Ananya Iyer; Vikram Rao; Arjun Patel; Sneha Kulkarni; Karthik Reddy; Farhan Khan",
+      "Agenda": "Prepare final year project demo flow, data story, known limitations, and presentation sequence.",
+      "Decisions": "Demo will show login, dashboards, task workflow, document search, AI assistant, and SQL-backed analytics.",
+      "Action Items": "Rohan to prepare AI demo prompts; Arjun to verify UI flows; Karthik to perform final smoke test."
+    }
+  ]
+}

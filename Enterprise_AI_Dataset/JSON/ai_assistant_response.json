@@ -1,0 +1,9 @@
+{
+  "question": "What changed in Project Alpha v2?",
+  "answer": "Project Alpha v2 adds role-based dashboards, task filters, meeting summaries, document search, grounded AI assistant citations, SQL-backed metrics, overdue detection, and QA acceptance criteria.",
+  "citations": [
+    "Document_Versions/Project_Alpha_Requirements_v2.md",
+    "Company_Documents/AI_Development_Guidelines.md"
+  ],
+  "confidence": 0.91
+}

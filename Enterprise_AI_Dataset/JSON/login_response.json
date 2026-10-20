@@ -1,0 +1,10 @@
+{
+  "status": "success",
+  "token": "demo.jwt.token",
+  "user": {
+    "employeeId": "EMP001",
+    "name": "Rohan Sharma",
+    "role": "AI Engineer",
+    "managerId": "MGR001"
+  }
+}
